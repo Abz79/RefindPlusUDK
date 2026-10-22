@@ -1,0 +1,38 @@
+/**
+  DO NOT EDIT
+  FILE auto-generated
+  Module name:
+    AutoGen.h
+  Abstract:       Auto-generated AutoGen.h for building module or library.
+**/
+
+#ifndef _AUTOGENH_F0D322FE_3FCF_4636_8A42_47559704201A
+#define _AUTOGENH_F0D322FE_3FCF_4636_8A42_47559704201A
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+#include <Base.h>
+#include <PiDxe.h>
+
+extern GUID  gEfiCallerIdGuid;
+extern CHAR8 *gEfiCallerBaseName;
+
+
+// Protocols
+extern EFI_GUID gEfiPlatformDriverOverrideProtocolGuid;
+extern EFI_GUID gEfiDevicePathProtocolGuid;
+extern EFI_GUID gEfiBlockIo2ProtocolGuid;
+extern EFI_GUID gEfiBlockIoProtocolGuid;
+extern EFI_GUID gEfiSimpleFileSystemProtocolGuid;
+
+// Definition of SkuId Array
+extern UINT64 _gPcd_SkuId_Array[];
+
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif

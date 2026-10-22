@@ -1,0 +1,1535 @@
+# Path: /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/RefindPlusPkg/gptsync/gptsync/DEBUG/gptsync.dll
+# Arch: x86_64
+# Object files:
+[  0] linker synthesized
+[  1] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib(PcdLib.obj)
+[  2] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+[  3] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+[  4] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem64Wrapper.obj)
+[  5] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem32Wrapper.obj)
+[  6] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem16Wrapper.obj)
+[  7] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ScanMem8Wrapper.obj)
+[  8] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+[  9] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CompareMemWrapper.obj)
+[ 10] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem64Wrapper.obj)
+[ 11] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem32Wrapper.obj)
+[ 12] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem16Wrapper.obj)
+[ 13] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMemWrapper.obj)
+[ 14] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+[ 15] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(IsZeroBufferWrapper.obj)
+[ 16] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+[ 17] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+[ 18] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+[ 19] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CheckSum.obj)
+[ 20] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+[ 21] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes64.obj)
+[ 22] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+[ 23] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+[ 24] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+[ 25] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+[ 26] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+[ 27] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU64.obj)
+[ 28] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RRotU32.obj)
+[ 29] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x64.obj)
+[ 30] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+[ 31] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultS64x64.obj)
+[ 32] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ModU64x32.obj)
+[ 33] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+[ 34] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU64.obj)
+[ 35] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LRotU32.obj)
+[ 36] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet64.obj)
+[ 37] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LowBitSet32.obj)
+[ 38] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet64.obj)
+[ 39] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(HighBitSet32.obj)
+[ 40] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo64.obj)
+[ 41] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GetPowerOfTwo32.obj)
+[ 42] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x64Remainder.obj)
+[ 43] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+[ 44] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+[ 45] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivS64x64Remainder.obj)
+[ 46] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ARShiftU64.obj)
+[ 47] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+[ 48] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
+[ 49] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Cpu.obj)
+[ 50] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LinkedList.obj)
+[ 51] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+[ 52] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+[ 53] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(FilePaths.obj)
+[ 54] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Thunk16.obj)
+[ 55] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(WriteTr.obj)
+[ 56] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Non-existing.obj)
+[ 57] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+[ 58] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+[ 59] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteIdtr.obj)
+[ 60] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86WriteGdtr.obj)
+[ 61] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Thunk.obj)
+[ 62] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadIdtr.obj)
+[ 63] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86ReadGdtr.obj)
+[ 64] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86Msr.obj)
+[ 65] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86GetInterruptState.obj)
+[ 66] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxSave.obj)
+[ 67] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86FxRestore.obj)
+[ 68] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging64.obj)
+[ 69] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86EnablePaging32.obj)
+[ 70] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging64.obj)
+[ 71] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86DisablePaging32.obj)
+[ 72] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(X86RdRand.obj)
+[ 73] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(GccInline.obj)
+[ 74] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwitchStack.obj)
+[ 75] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SetJump.obj)
+[ 76] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LongJump.obj)
+[ 77] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableDisableInterrupts.obj)
+[ 78] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisablePaging64.obj)
+[ 79] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuId.obj)
+[ 80] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuIdEx.obj)
+[ 81] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(EnableCache.obj)
+[ 82] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DisableCache.obj)
+[ 83] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RdRand.obj)
+[ 84] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(ChkStkGcc.obj)
+[ 85] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+[ 86] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+[ 87] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+[ 88] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+[ 89] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathUtilities.obj)
+[ 90] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathToText.obj)
+[ 91] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathFromText.obj)
+[ 92] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(UefiDevicePathLib.obj)
+[ 93] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+[ 94] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+[ 95] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiNotTiano.obj)
+[ 96] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiDriverModel.obj)
+[ 97] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(Console.obj)
+[ 98] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+[ 99] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+[100] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/RefindPlusPkg/gptsync/gptsync/OUTPUT/gptsync.lib(lib.obj)
+[101] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/RefindPlusPkg/gptsync/gptsync/OUTPUT/gptsync.lib(gptsync.obj)
+[102] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/RefindPlusPkg/gptsync/gptsync/OUTPUT/gptsync.lib(os_efi.obj)
+[103] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/RefindPlusPkg/gptsync/gptsync/OUTPUT/gptsync.lib(showpart.obj)
+[104] /Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/RefindPlusPkg/gptsync/gptsync/OUTPUT/gptsync.lib(AutoGen.obj)
+# Sections:
+# Address	Size    	Segment	Section
+0x00000300	0x000032BD	__TEXT	__text
+0x000035C0	0x00000020	__TEXT	__const
+0x000035E0	0x000002EE	__TEXT	__cstring
+0x000038CE	0x00001966	__TEXT	__ustring
+0x00005240	0x00000138	__DATA	__const
+0x00005380	0x00000B90	__DATA	__data
+0x00005F10	0x00002450	__DATA	__common
+0x00008360	0x000000DF	__SBAT	__sbat
+# Symbols:
+# Address	Size    	File  Name
+0x00000300	0x00000000	[  0] ___dso_handle
+0x00000300	0x00000018	[  9] _CompareMem
+0x00000318	0x00000019	[ 14] _CopyMem
+0x00000331	0x00000035	[ 16] _InternalMemCompareMem
+0x00000366	0x000001C5	[ 18] _InternalMemCopyMem
+0x0000052B	0x00000006	[ 25] _InternalAssertJumpBuffer
+0x00000531	0x0000000A	[ 43] _DivU64x32Remainder
+0x0000053B	0x0000003D	[ 51] _StrnLenS
+0x00000578	0x0000003B	[ 51] _AsciiStrnLenS
+0x000005B3	0x00000021	[ 52] _StrLen
+0x000005D8	0x00000000	[ 54] SavedGdt
+0x000005D8	0x0000000A	[ 54] _m16Start
+0x000005E2	0x00000008	[ 54] _BackFromUserCode
+0x000005EA	0x00000014	[ 54] _BackFromUserCode.Base
+0x000005FE	0x0000000D	[ 54] _BackFromUserCode.ThunkAttrEnd
+0x0000060B	0x0000000B	[ 54] _BackFromUserCode.1
+0x00000616	0x00000036	[ 54] _BackFromUserCode.2
+0x0000064C	0x0000001C	[ 54] _BackFromUserCode.SavedCr4End
+0x00000668	0x0000000B	[ 54] _BackFromUserCode.SavedCr0End
+0x00000673	0x0000000B	[ 54] _BackFromUserCode.X64JmpEnd
+0x0000067E	0x00000002	[ 54] _BackFromUserCode.SavedSpEnd
+0x00000680	0x00000006	[ 54] _EntryPoint
+0x00000686	0x00000002	[ 54] _16Gdtr
+0x00000688	0x00000008	[ 54] _16GdtrBase
+0x00000690	0x00000006	[ 54] _16Idtr
+0x00000696	0x00000028	[ 54] _ToUserCode
+0x000006BE	0x0000000F	[ 54] _ToUserCode.Base
+0x000006CD	0x0000001B	[ 54] _ToUserCode.RealMode
+0x000006E8	0x00000008	[ 54] _NullSeg
+0x000006F0	0x00000008	[ 54] _16Code
+0x000006F8	0x00000008	[ 54] _16Data
+0x00000700	0x00000008	[ 54] _32Data
+0x00000708	0x000000B4	[ 54] _InternalAsmThunk16
+0x000007BC	0x00000020	[ 54] _InternalAsmThunk16.RetFromRealMode
+0x000007DC	0x00000006	[ 55] _AsmWriteTr
+0x000007E2	0x00000018	[ 57] _InternalMathDivRemU64x32
+0x000007FA	0x00000009	[ 58] _ReadUnaligned16
+0x00000803	0x00000008	[ 58] _ReadUnaligned32
+0x0000080B	0x0000000F	[ 74] _InternalSwitchStack
+0x0000081A	0x0000008F	[ 75] _SetJump
+0x000008A9	0x0000007C	[ 76] _InternalLongJump
+0x00000925	0x00000003	[ 77] _EnableDisableInterrupts
+0x00000928	0x0000003A	[ 78] _InternalX86DisablePaging64
+0x00000962	0x00000027	[ 78] _InternalX86DisablePaging64.0
+0x00000989	0x00000000	[ 78] mTransitionEnd
+0x00000989	0x0000000F	[ 79] _AsmCpuid
+0x00000998	0x00000005	[ 79] _AsmCpuid.0
+0x0000099D	0x00000007	[ 79] _AsmCpuid.1
+0x000009A4	0x00000009	[ 79] _AsmCpuid.2
+0x000009AD	0x00000003	[ 79] _AsmCpuid.3
+0x000009B0	0x00000015	[ 80] _AsmCpuidEx
+0x000009C5	0x00000007	[ 80] _AsmCpuidEx.0
+0x000009CC	0x00000007	[ 80] _AsmCpuidEx.1
+0x000009D3	0x00000009	[ 80] _AsmCpuidEx.2
+0x000009DC	0x00000003	[ 80] _AsmCpuidEx.3
+0x000009DF	0x00000013	[ 81] _AsmEnableCache
+0x000009F2	0x00000013	[ 82] _AsmDisableCache
+0x00000A05	0x00000009	[ 83] _InternalX86RdRand16
+0x00000A0E	0x00000009	[ 83] rn16_ok
+0x00000A17	0x00000009	[ 83] _InternalX86RdRand32
+0x00000A20	0x00000008	[ 83] rn32_ok
+0x00000A28	0x0000000A	[ 83] _InternalX86RdRand64
+0x00000A32	0x00000009	[ 83] rn64_ok
+0x00000A3B	0x00000021	[ 85] _UefiBootServicesTableLibConstructor
+0x00000A5C	0x00000031	[ 86] _AllocatePool
+0x00000A8D	0x00000010	[ 86] _FreePool
+0x00000A9F	0x00001001	[ 87] _BasePrintLibSPrintMarker
+0x00001AA0	0x0000002C	[ 87] _BasePrintLibSPrint
+0x00001ACC	0x00000030	[ 88] _UnicodeVSPrint
+0x00001AFC	0x00000022	[ 89] _NextDevicePathNode
+0x00001B1E	0x00000008	[ 89] _DevicePathType
+0x00001B26	0x00000009	[ 89] _DevicePathSubType
+0x00001B2F	0x0000000F	[ 89] _IsDevicePathEndType
+0x00001B3E	0x00000033	[ 89] _DevicePathFromHandle
+0x00001B71	0x00000013	[ 93] _UefiRuntimeServicesTableLibConstructor
+0x00001B84	0x00000078	[ 94] _InternalPrint
+0x00001BFC	0x00000034	[ 94] _Print
+0x00001C30	0x00000008	[ 98] _UefiLibConstructor
+0x00001C38	0x0000005C	[ 99] __ModuleEntryPoint
+0x00001C94	0x00000042	[100] _mbr_parttype_name
+0x00001CD6	0x000001C4	[100] _read_mbr
+0x00001E9A	0x00000058	[100] _gpt_parttype
+0x00001EF2	0x0000020F	[100] _read_gpt
+0x00002101	0x00000491	[100] _detect_mbrtype_fs
+0x00002592	0x00000914	[101] _gptsync
+0x00002EA6	0x0000023F	[101] _write_mbr
+0x000030E5	0x00000018	[102] _disk_size
+0x000030FD	0x00000032	[102] _read_sector
+0x0000312F	0x00000032	[102] _write_sector
+0x00003161	0x000000E0	[102] _input_boolean
+0x00003241	0x0000033A	[102] _efi_main
+0x0000357B	0x00000032	[104] _ProcessLibraryConstructorList
+0x000035AD	0x00000006	[104] _ProcessLibraryDestructorList
+0x000035B3	0x0000000A	[104] _ProcessModuleEntryPointList
+0x000035C0	0x00000010	[ 87] _mHexStr
+0x000035D0	0x00000004	[104] __gPcd_FixedAtBuild_PcdMaximumAsciiStringLength
+0x000035D4	0x00000004	[104] __gPcd_FixedAtBuild_PcdMaximumUnicodeStringLength
+0x000035D8	0x00000004	[104] __gPcd_FixedAtBuild_PcdUefiLibMaxPrintBufferSize
+0x000035DC	0x00000004	[104] __gUefiDriverRevision
+0x000035E0	0x00000008	[ 87] literal string: Success
+0x000035E8	0x00000016	[ 87] literal string: Unknown Glyph Warning
+0x000035FE	0x00000017	[ 87] literal string: Delete Failure Warning
+0x00003615	0x00000016	[ 87] literal string: Write Failure Warning
+0x0000362B	0x00000019	[ 87] literal string: Buffer Too Small Warning
+0x00003644	0x00000013	[ 87] literal string: Stale Data Warning
+0x00003657	0x0000000B	[ 87] literal string: Load Error
+0x00003662	0x00000012	[ 87] literal string: Invalid Parameter
+0x00003674	0x0000000E	[ 87] literal string: Not Supported
+0x00003682	0x00000010	[ 87] literal string: Bad Buffer Size
+0x00003692	0x00000011	[ 87] literal string: Buffer Too Small
+0x000036A3	0x0000000A	[ 87] literal string: Not Ready
+0x000036AD	0x0000000D	[ 87] literal string: Device Error
+0x000036BA	0x00000010	[ 87] literal string: Write Protected
+0x000036CA	0x00000011	[ 87] literal string: Out of Resources
+0x000036DB	0x0000000F	[ 87] literal string: Volume Corrupt
+0x000036EA	0x0000000C	[ 87] literal string: Volume Full
+0x000036F6	0x00000009	[ 87] literal string: No Media
+0x000036FF	0x0000000E	[ 87] literal string: Media Changed
+0x0000370D	0x0000000A	[ 87] literal string: Not Found
+0x00003717	0x0000000E	[ 87] literal string: Access Denied
+0x00003725	0x0000000C	[ 87] literal string: No Response
+0x00003731	0x0000000B	[ 87] literal string: No Mapping
+0x0000373C	0x00000009	[ 87] literal string: Time Out
+0x00003745	0x0000000C	[ 87] literal string: Not Started
+0x00003751	0x00000010	[ 87] literal string: Already Started
+0x00003761	0x00000008	[ 87] literal string: Aborted
+0x00003769	0x0000000B	[ 87] literal string: ICMP Error
+0x00003774	0x0000000B	[ 87] literal string: TFTP Error
+0x0000377F	0x0000000F	[ 87] literal string: Protocol Error
+0x0000378E	0x00000015	[ 87] literal string: Incompatible Version
+0x000037A3	0x00000013	[ 87] literal string: Security Violation
+0x000037B6	0x0000000A	[ 87] literal string: CRC Error
+0x000037C0	0x0000000D	[ 87] literal string: End of Media
+0x000037CD	0x0000000E	[ 87] literal string: Reserved (29)
+0x000037DB	0x0000000E	[ 87] literal string: Reserved (30)
+0x000037E9	0x0000000C	[ 87] literal string: End of File
+0x000037F5	0x00000011	[ 87] literal string: Invalid Language
+0x00003806	0x00000011	[ 87] literal string: Compromised Data
+0x00003817	0x0000000E	[ 87] literal string: <null string>
+0x00003825	0x0000000C	[ 87] literal string: <null guid>
+0x00003831	0x00000031	[ 87] literal string: %08x-%04x-%04x-%02x%02x-%02x%02x%02x%02x%02x%02x
+0x00003862	0x0000000C	[ 87] literal string: <null time>
+0x0000386E	0x0000001A	[ 87] literal string: %02d/%02d/%04d  %02d:%02d
+0x00003888	0x00000005	[ 87] literal string: %08X
+0x0000388D	0x00000003	[ 87] literal string: \r\n
+0x00003890	0x00000002	[ 87] literal string: \r
+0x00003892	0x00000009	[100] literal string: NTFS    
+0x0000389B	0x00000009	[100] literal string: _BHRfS_M
+0x000038A4	0x00000009	[100] literal string: ReIsErFs
+0x000038AD	0x0000000A	[100] literal string: ReIsEr2Fs
+0x000038B7	0x0000000A	[100] literal string: ReIsEr3Fs
+0x000038C1	0x00000008	[100] literal string: ReIsEr4
+0x000038C9	0x00000005	[100] literal string: JFS1
+0x000038CE	0x00000018	[100] l_.str
+0x000038E6	0x00000022	[100] l_.str.1
+0x00003908	0x0000001E	[100] l_.str.2
+0x00003926	0x00000018	[100] l_.str.3
+0x0000393E	0x00000014	[100] l_.str.4
+0x00003952	0x00000018	[100] l_.str.5
+0x0000396A	0x00000018	[100] l_.str.6
+0x00003982	0x00000018	[100] l_.str.7
+0x0000399A	0x0000001E	[100] l_.str.8
+0x000039B8	0x00000026	[100] l_.str.9
+0x000039DE	0x00000030	[100] l_.str.10
+0x00003A0E	0x00000026	[100] l_.str.11
+0x00003A34	0x00000022	[100] l_.str.12
+0x00003A56	0x00000026	[100] l_.str.13
+0x00003A7C	0x00000026	[100] l_.str.14
+0x00003AA2	0x00000026	[100] l_.str.15
+0x00003AC8	0x0000002A	[100] l_.str.16
+0x00003AF2	0x0000000C	[100] l_.str.17
+0x00003AFE	0x0000001E	[100] l_.str.18
+0x00003B1C	0x00000024	[100] l_.str.19
+0x00003B40	0x00000020	[100] l_.str.20
+0x00003B60	0x00000014	[100] l_.str.21
+0x00003B74	0x00000010	[100] l_.str.22
+0x00003B84	0x00000010	[100] l_.str.23
+0x00003B94	0x00000012	[100] l_.str.24
+0x00003BA6	0x00000014	[100] l_.str.25
+0x00003BBA	0x0000000E	[100] l_.str.26
+0x00003BC8	0x00000016	[100] l_.str.27
+0x00003BDE	0x00000016	[100] l_.str.28
+0x00003BF4	0x00000016	[100] l_.str.29
+0x00003C0A	0x0000001A	[100] l_.str.30
+0x00003C24	0x00000010	[100] l_.str.31
+0x00003C34	0x0000000A	[100] l_.str.32
+0x00003C3E	0x0000001E	[100] l_.str.33
+0x00003C5C	0x00000022	[100] l_.str.34
+0x00003C7E	0x00000016	[100] l_.str.35
+0x00003C94	0x00000024	[100] l_.str.36
+0x00003CB8	0x0000002A	[100] l_.str.37
+0x00003CE2	0x00000018	[100] l_.str.38
+0x00003CFA	0x00000016	[100] l_.str.39
+0x00003D10	0x00000020	[100] l_.str.40
+0x00003D30	0x00000018	[100] l_.str.41
+0x00003D48	0x00000016	[100] l_.str.42
+0x00003D5E	0x0000001C	[100] l_.str.43
+0x00003D7A	0x00000016	[100] l_.str.44
+0x00003D90	0x00000022	[100] l_.str.45
+0x00003DB2	0x0000001E	[100] l_.str.46
+0x00003DD0	0x00000020	[100] l_.str.47
+0x00003DF0	0x0000001A	[100] l_.str.48
+0x00003E0A	0x0000001A	[100] l_.str.49
+0x00003E24	0x00000018	[100] l_.str.50
+0x00003E3C	0x0000001C	[100] l_.str.51
+0x00003E58	0x00000018	[100] l_.str.52
+0x00003E70	0x0000001A	[100] l_.str.53
+0x00003E8A	0x00000018	[100] l_.str.54
+0x00003EA2	0x00000016	[100] l_.str.55
+0x00003EB8	0x00000016	[100] l_.str.56
+0x00003ECE	0x00000018	[100] l_.str.57
+0x00003EE6	0x00000016	[100] l_.str.58
+0x00003EFC	0x00000016	[100] l_.str.59
+0x00003F12	0x00000026	[100] l_.str.60
+0x00003F38	0x0000002A	[100] l_.str.61
+0x00003F62	0x00000018	[100] l_.str.62
+0x00003F7A	0x00000024	[100] l_.str.63
+0x00003F9E	0x00000022	[100] l_.str.64
+0x00003FC0	0x0000001A	[100] l_.str.65
+0x00003FDA	0x0000001A	[100] l_.str.66
+0x00003FF4	0x00000030	[100] l_.str.67
+0x00004024	0x0000001E	[100] l_.str.68
+0x00004042	0x00000032	[100] l_.str.69
+0x00004074	0x00000018	[100] l_.str.70
+0x0000408C	0x0000001A	[100] l_.str.71
+0x000040A6	0x00000032	[100] l_.str.72
+0x000040D8	0x00000032	[100] l_.str.73
+0x0000410A	0x00000010	[100] l_.str.74
+0x0000411A	0x0000003E	[100] l_.str.75
+0x00004158	0x00000044	[100] l_.str.76
+0x0000419C	0x00000044	[100] l_.str.77
+0x000041E0	0x00000030	[100] l_.str.78
+0x00004210	0x0000004C	[100] l_.str.79
+0x0000425C	0x00000040	[100] l_.str.80
+0x0000429C	0x00000004	[100] l_.str.81
+0x000042A0	0x00000004	[100] l_.str.82
+0x000042A4	0x00000040	[100] l_.str.83
+0x000042E4	0x00000044	[100] l_.str.84
+0x00004328	0x00000058	[100] l_.str.85
+0x00004380	0x00000088	[100] l_.str.86
+0x00004408	0x0000004C	[100] l_.str.87
+0x00004454	0x00000032	[100] l_.str.88
+0x00004486	0x00000008	[100] l_.str.89
+0x0000448E	0x0000000A	[100] l_.str.91
+0x00004498	0x0000000C	[100] l_.str.92
+0x000044A4	0x0000000C	[100] l_.str.93
+0x000044B0	0x0000000C	[100] l_.str.94
+0x000044BC	0x00000028	[100] l_.str.95
+0x000044E4	0x0000001A	[100] l_.str.96
+0x000044FE	0x0000000A	[100] l_.str.97
+0x00004508	0x0000000A	[100] l_.str.98
+0x00004512	0x0000000A	[100] l_.str.99
+0x0000451C	0x0000000C	[100] l_.str.101
+0x00004528	0x00000012	[100] l_.str.105
+0x0000453A	0x00000010	[100] l_.str.107
+0x0000454A	0x00000008	[100] l_.str.109
+0x00004552	0x0000009C	[101] l_.str
+0x000045EE	0x00000004	[101] l_.str.1
+0x000045F2	0x0000005E	[101] l_.str.2
+0x00004650	0x0000006C	[101] l_.str.3
+0x000046BC	0x00000052	[101] l_.str.4
+0x0000470E	0x0000007A	[101] l_.str.5
+0x00004788	0x0000008A	[101] l_.str.6
+0x00004812	0x0000007A	[101] l_.str.7
+0x0000488C	0x00000094	[101] l_.str.8
+0x00004920	0x0000009C	[101] l_.str.9
+0x000049BC	0x00000052	[101] l_.str.10
+0x00004A0E	0x00000066	[101] l_.str.12
+0x00004A74	0x00000048	[101] l_.str.13
+0x00004ABC	0x0000004C	[101] l_.str.14
+0x00004B08	0x00000040	[101] l_.str.15
+0x00004B48	0x00000004	[101] l_.str.16
+0x00004B4C	0x00000004	[101] l_.str.17
+0x00004B50	0x00000056	[101] l_.str.18
+0x00004BA6	0x000000A4	[101] l_.str.19
+0x00004C4A	0x0000009E	[101] l_.str.20
+0x00004CE8	0x00000070	[101] l_.str.21
+0x00004D58	0x00000098	[101] l_.str.22
+0x00004DF0	0x00000096	[101] l_.str.23
+0x00004E86	0x00000022	[101] l_.str.24
+0x00004EA8	0x0000002A	[101] l_.str.25
+0x00004ED2	0x00000062	[101] l_.str.26
+0x00004F34	0x00000064	[101] l_.str.27
+0x00004F98	0x00000036	[101] l_.str.28
+0x00004FCE	0x0000000A	[102] l_.str
+0x00004FD8	0x00000008	[102] l_.str.1
+0x00004FE0	0x0000004C	[102] l_.str.2
+0x0000502C	0x0000000C	[102] l_.str.3
+0x00005038	0x0000003E	[102] l_.str.4
+0x00005076	0x0000009E	[102] l_.str.5
+0x00005114	0x0000009E	[102] l_.str.6
+0x000051B2	0x00000044	[102] l_.str.7
+0x000051F6	0x0000003A	[102] l_.str.8
+0x00005230	0x00000004	[102] l_.str.9
+0x00005240	0x00000138	[ 87] _mStatusString
+0x00005380	0x00000002	[ 54] _m16Size
+0x00005382	0x00000002	[ 54] _mThunk16Attr
+0x00005384	0x00000002	[ 54] _m16Gdt
+0x00005386	0x00000002	[ 54] _m16GdtrBase
+0x00005388	0x00000002	[ 54] _mTransition
+0x00005390	0x00000250	[100] _mbr_types
+0x000055E0	0x000007A8	[100] _gpt_types
+0x00005D88	0x00000028	[100] _gpt_dummy_type
+0x00005DB0	0x00000010	[101] _force_sbat_link
+0x00005DC0	0x00000130	[101] _syslinux_mbr
+0x00005EF0	0x00000010	[104] _gEfiBlockIoProtocolGuid
+0x00005F00	0x00000010	[104] _gEfiDevicePathProtocolGuid
+0x00005F10	0x00000008	[ 85] _gImageHandle
+0x00005F18	0x00000008	[ 85] _gST
+0x00005F20	0x00000008	[ 85] _gBS
+0x00005F28	0x00000008	[ 93] _gRT
+0x00005F30	0x00000010	[100] _empty_guid
+0x00005F40	0x00000008	[100] _mbr_part_count
+0x00005F48	0x00000008	[100] _gpt_part_count
+0x00005F50	0x00000008	[100] _new_mbr_part_count
+0x00005F58	0x00000008	[102] _BlockIO
+0x00005F60	0x00002000	[100] _gpt_parts
+0x00007F60	0x00000100	[100] _mbr_parts
+0x00008060	0x00000100	[100] _new_mbr_parts
+0x00008160	0x00000200	[100] _sector
+0x00008360	0x000000DF	[101] _sbat_section
+
+# Dead Stripped Symbols:
+#        	Size    	File  Name
+<<dead>> 	0x00000008	[  1] _LibPcdSetSku
+<<dead>> 	0x00000008	[  1] _LibPcdGet8
+<<dead>> 	0x00000008	[  1] _LibPcdGet16
+<<dead>> 	0x00000008	[  1] _LibPcdGet32
+<<dead>> 	0x00000008	[  1] _LibPcdGet64
+<<dead>> 	0x00000008	[  1] _LibPcdGetPtr
+<<dead>> 	0x00000008	[  1] _LibPcdGetBool
+<<dead>> 	0x00000008	[  1] _LibPcdGetSize
+<<dead>> 	0x00000008	[  1] _LibPcdGetEx8
+<<dead>> 	0x00000008	[  1] _LibPcdGetEx16
+<<dead>> 	0x00000008	[  1] _LibPcdGetEx32
+<<dead>> 	0x00000008	[  1] _LibPcdGetEx64
+<<dead>> 	0x00000008	[  1] _LibPcdGetExPtr
+<<dead>> 	0x00000008	[  1] _LibPcdGetExBool
+<<dead>> 	0x00000008	[  1] _LibPcdGetExSize
+<<dead>> 	0x00000008	[  1] _LibPcdSet8
+<<dead>> 	0x00000008	[  1] _LibPcdSet16
+<<dead>> 	0x00000008	[  1] _LibPcdSet32
+<<dead>> 	0x00000008	[  1] _LibPcdSet64
+<<dead>> 	0x00000008	[  1] _LibPcdSetPtr
+<<dead>> 	0x00000008	[  1] _LibPcdSetBool
+<<dead>> 	0x00000008	[  1] _LibPcdSetEx8
+<<dead>> 	0x00000008	[  1] _LibPcdSetEx16
+<<dead>> 	0x00000008	[  1] _LibPcdSetEx32
+<<dead>> 	0x00000008	[  1] _LibPcdSetEx64
+<<dead>> 	0x00000008	[  1] _LibPcdSetExPtr
+<<dead>> 	0x00000008	[  1] _LibPcdSetExBool
+<<dead>> 	0x00000010	[  1] _LibPcdSet8S
+<<dead>> 	0x00000010	[  1] _LibPcdSet16S
+<<dead>> 	0x00000010	[  1] _LibPcdSet32S
+<<dead>> 	0x00000010	[  1] _LibPcdSet64S
+<<dead>> 	0x00000010	[  1] _LibPcdSetPtrS
+<<dead>> 	0x00000010	[  1] _LibPcdSetBoolS
+<<dead>> 	0x00000010	[  1] _LibPcdSetEx8S
+<<dead>> 	0x00000010	[  1] _LibPcdSetEx16S
+<<dead>> 	0x00000010	[  1] _LibPcdSetEx32S
+<<dead>> 	0x00000010	[  1] _LibPcdSetEx64S
+<<dead>> 	0x00000010	[  1] _LibPcdSetExPtrS
+<<dead>> 	0x00000010	[  1] _LibPcdSetExBoolS
+<<dead>> 	0x00000006	[  1] _LibPcdCallbackOnSet
+<<dead>> 	0x00000006	[  1] _LibPcdCancelCallback
+<<dead>> 	0x00000008	[  1] _LibPcdGetNextToken
+<<dead>> 	0x00000008	[  1] _LibPcdGetNextTokenSpace
+<<dead>> 	0x00000036	[  1] _LibPatchPcdSetPtr
+<<dead>> 	0x00000038	[  1] _LibPatchPcdSetPtrS
+<<dead>> 	0x00000047	[  1] _LibPatchPcdSetPtrAndSize
+<<dead>> 	0x00000049	[  1] _LibPatchPcdSetPtrAndSizeS
+<<dead>> 	0x00000006	[  1] _LibPcdGetInfo
+<<dead>> 	0x00000006	[  1] _LibPcdGetInfoEx
+<<dead>> 	0x00000008	[  1] _LibPcdGetSku
+<<dead>> 	0x00000006	[  2] _DebugPrint
+<<dead>> 	0x00000006	[  2] _DebugAssert
+<<dead>> 	0x00000009	[  2] _DebugClearMemory
+<<dead>> 	0x00000008	[  2] _DebugAssertEnabled
+<<dead>> 	0x00000008	[  2] _DebugPrintEnabled
+<<dead>> 	0x00000008	[  2] _DebugCodeEnabled
+<<dead>> 	0x00000008	[  2] _DebugClearMemoryEnabled
+<<dead>> 	0x00000008	[  2] _DebugPrintLevelEnabled
+<<dead>> 	0x000000A1	[  3] _InternalMemSetMem
+<<dead>> 	0x00000017	[  4] _ScanMem64
+<<dead>> 	0x00000017	[  5] _ScanMem32
+<<dead>> 	0x00000016	[  6] _ScanMem16
+<<dead>> 	0x00000013	[  7] _ScanMem8
+<<dead>> 	0x0000000A	[  7] _ScanMemN
+<<dead>> 	0x00000014	[  8] _ZeroMem
+<<dead>> 	0x00000018	[ 10] _SetMem64
+<<dead>> 	0x00000018	[ 11] _SetMem32
+<<dead>> 	0x00000017	[ 12] _SetMem16
+<<dead>> 	0x00000014	[ 13] _SetMem
+<<dead>> 	0x0000000A	[ 13] _SetMemN
+<<dead>> 	0x0000000A	[ 15] _IsZeroBuffer
+<<dead>> 	0x00000019	[ 16] _InternalMemSetMem16
+<<dead>> 	0x00000018	[ 16] _InternalMemSetMem32
+<<dead>> 	0x00000018	[ 16] _InternalMemSetMem64
+<<dead>> 	0x0000000D	[ 16] _InternalMemZeroMem
+<<dead>> 	0x00000018	[ 16] _InternalMemScanMem8
+<<dead>> 	0x0000001A	[ 16] _InternalMemScanMem16
+<<dead>> 	0x00000019	[ 16] _InternalMemScanMem32
+<<dead>> 	0x00000019	[ 16] _InternalMemScanMem64
+<<dead>> 	0x00000023	[ 16] _InternalMemIsZeroBuffer
+<<dead>> 	0x0000004B	[ 17] _CopyGuid
+<<dead>> 	0x00000058	[ 17] _CompareGuid
+<<dead>> 	0x00000047	[ 17] _ScanGuid
+<<dead>> 	0x0000002F	[ 17] _IsZeroGuid
+<<dead>> 	0x00000020	[ 19] _CalculateSum8
+<<dead>> 	0x00000022	[ 19] _CalculateCheckSum8
+<<dead>> 	0x00000025	[ 19] _CalculateSum16
+<<dead>> 	0x0000002A	[ 19] _CalculateCheckSum16
+<<dead>> 	0x00000023	[ 19] _CalculateSum32
+<<dead>> 	0x00000025	[ 19] _CalculateCheckSum32
+<<dead>> 	0x00000025	[ 19] _CalculateSum64
+<<dead>> 	0x00000028	[ 19] _CalculateCheckSum64
+<<dead>> 	0x0000003B	[ 19] _CalculateCrc32
+<<dead>> 	0x00000400	[ 19] _mCrcTable
+<<dead>> 	0x00000023	[ 20] _SwitchStack
+<<dead>> 	0x0000000A	[ 21] _SwapBytes64
+<<dead>> 	0x0000002F	[ 22] _SwapBytes32
+<<dead>> 	0x0000000C	[ 23] _SwapBytes16
+<<dead>> 	0x00000027	[ 24] _LongJump
+<<dead>> 	0x0000000A	[ 26] _RShiftU64
+<<dead>> 	0x0000000A	[ 27] _RRotU64
+<<dead>> 	0x0000000C	[ 28] _RRotU32
+<<dead>> 	0x0000000A	[ 29] _MultU64x64
+<<dead>> 	0x0000000A	[ 30] _MultU64x32
+<<dead>> 	0x0000000A	[ 31] _MultS64x64
+<<dead>> 	0x0000000A	[ 32] _ModU64x32
+<<dead>> 	0x0000000A	[ 33] _LShiftU64
+<<dead>> 	0x0000000A	[ 34] _LRotU64
+<<dead>> 	0x0000000C	[ 35] _LRotU32
+<<dead>> 	0x0000003A	[ 36] _LowBitSet64
+<<dead>> 	0x00000028	[ 37] _LowBitSet32
+<<dead>> 	0x00000031	[ 38] _HighBitSet64
+<<dead>> 	0x00000023	[ 39] _HighBitSet32
+<<dead>> 	0x00000027	[ 40] _GetPowerOfTwo64
+<<dead>> 	0x00000026	[ 41] _GetPowerOfTwo32
+<<dead>> 	0x0000000A	[ 42] _DivU64x64Remainder
+<<dead>> 	0x0000000A	[ 44] _DivU64x32
+<<dead>> 	0x0000000A	[ 45] _DivS64x64Remainder
+<<dead>> 	0x0000000A	[ 46] _ARShiftU64
+<<dead>> 	0x00000022	[ 47] _InternalBaseLibBitFieldReadUint
+<<dead>> 	0x00000024	[ 47] _InternalBaseLibBitFieldOrUint
+<<dead>> 	0x00000027	[ 47] _InternalBaseLibBitFieldAndUint
+<<dead>> 	0x00000023	[ 47] _BitFieldRead8
+<<dead>> 	0x0000003C	[ 47] _BitFieldWrite8
+<<dead>> 	0x0000003B	[ 47] _BitFieldAndThenOr8
+<<dead>> 	0x00000026	[ 47] _BitFieldOr8
+<<dead>> 	0x0000002B	[ 47] _BitFieldAnd8
+<<dead>> 	0x00000023	[ 47] _BitFieldRead16
+<<dead>> 	0x0000003C	[ 47] _BitFieldWrite16
+<<dead>> 	0x0000003B	[ 47] _BitFieldAndThenOr16
+<<dead>> 	0x00000026	[ 47] _BitFieldOr16
+<<dead>> 	0x0000002B	[ 47] _BitFieldAnd16
+<<dead>> 	0x00000021	[ 47] _BitFieldRead32
+<<dead>> 	0x00000038	[ 47] _BitFieldWrite32
+<<dead>> 	0x00000038	[ 47] _BitFieldAndThenOr32
+<<dead>> 	0x00000023	[ 47] _BitFieldOr32
+<<dead>> 	0x00000027	[ 47] _BitFieldAnd32
+<<dead>> 	0x00000037	[ 47] _BitFieldRead64
+<<dead>> 	0x0000001B	[ 47] _BitFieldWrite64
+<<dead>> 	0x0000007C	[ 47] _BitFieldAndThenOr64
+<<dead>> 	0x0000003D	[ 47] _BitFieldOr64
+<<dead>> 	0x00000040	[ 47] _BitFieldAnd64
+<<dead>> 	0x0000001A	[ 48] _CpuDeadLoop
+<<dead>> 	0x0000001E	[ 49] _SaveAndDisableInterrupts
+<<dead>> 	0x00000024	[ 49] _SetInterruptState
+<<dead>> 	0x00000038	[ 50] _InternalBaseLibIsListValid
+<<dead>> 	0x0000003A	[ 50] _IsNodeInList
+<<dead>> 	0x00000010	[ 50] _InitializeListHead
+<<dead>> 	0x0000001A	[ 50] _InsertHeadList
+<<dead>> 	0x0000001B	[ 50] _InsertTailList
+<<dead>> 	0x00000009	[ 50] _GetFirstNode
+<<dead>> 	0x00000009	[ 50] _GetNextNode
+<<dead>> 	0x0000000A	[ 50] _GetPreviousNode
+<<dead>> 	0x0000000C	[ 50] _IsListEmpty
+<<dead>> 	0x0000000C	[ 50] _IsNull
+<<dead>> 	0x00000016	[ 50] _IsNodeAtEnd
+<<dead>> 	0x00000079	[ 50] _SwapListEntries
+<<dead>> 	0x0000001B	[ 50] _RemoveEntryList
+<<dead>> 	0x00000028	[ 51] _InternalSafeStringIsOverlap
+<<dead>> 	0x0000002C	[ 51] _InternalSafeStringNoStrOverlap
+<<dead>> 	0x0000002A	[ 51] _InternalSafeStringNoAsciiStrOverlap
+<<dead>> 	0x00000046	[ 51] _StrnSizeS
+<<dead>> 	0x000000CB	[ 51] _StrCpyS
+<<dead>> 	0x000000EF	[ 51] _StrnCpyS
+<<dead>> 	0x0000011E	[ 51] _StrCatS
+<<dead>> 	0x00000146	[ 51] _StrnCatS
+<<dead>> 	0x0000011D	[ 51] _StrDecimalToUintnS
+<<dead>> 	0x0000011A	[ 51] _StrDecimalToUint64S
+<<dead>> 	0x00000139	[ 51] _StrHexToUintnS
+<<dead>> 	0x0000014B	[ 51] _StrHexToUint64S
+<<dead>> 	0x0000022F	[ 51] _StrToIpv6Address
+<<dead>> 	0x00000120	[ 51] _StrToIpv4Address
+<<dead>> 	0x00000141	[ 51] _StrToGuid
+<<dead>> 	0x000000E9	[ 51] _StrHexToBytes
+<<dead>> 	0x00000040	[ 51] _AsciiStrnSizeS
+<<dead>> 	0x000000B4	[ 51] _AsciiStrCpyS
+<<dead>> 	0x000000E6	[ 51] _AsciiStrnCpyS
+<<dead>> 	0x00000109	[ 51] _AsciiStrCatS
+<<dead>> 	0x0000013A	[ 51] _AsciiStrnCatS
+<<dead>> 	0x0000011E	[ 51] _AsciiStrDecimalToUintnS
+<<dead>> 	0x0000011C	[ 51] _AsciiStrDecimalToUint64S
+<<dead>> 	0x0000012A	[ 51] _AsciiStrHexToUintnS
+<<dead>> 	0x0000013C	[ 51] _AsciiStrHexToUint64S
+<<dead>> 	0x000000D2	[ 51] _UnicodeStrToAsciiStrS
+<<dead>> 	0x00000125	[ 51] _UnicodeStrnToAsciiStrS
+<<dead>> 	0x000000D0	[ 51] _AsciiStrToUnicodeStrS
+<<dead>> 	0x0000011F	[ 51] _AsciiStrnToUnicodeStrS
+<<dead>> 	0x00000226	[ 51] _AsciiStrToIpv6Address
+<<dead>> 	0x00000118	[ 51] _AsciiStrToIpv4Address
+<<dead>> 	0x0000013D	[ 51] _AsciiStrToGuid
+<<dead>> 	0x000000E7	[ 51] _AsciiStrHexToBytes
+<<dead>> 	0x00000035	[ 52] _StrCpy
+<<dead>> 	0x0000005E	[ 52] _StrnCpy
+<<dead>> 	0x00000026	[ 52] _StrSize
+<<dead>> 	0x00000032	[ 52] _StrCmp
+<<dead>> 	0x0000004F	[ 52] _StrnCmp
+<<dead>> 	0x00000053	[ 52] _StrCat
+<<dead>> 	0x0000004D	[ 52] _StrnCat
+<<dead>> 	0x00000073	[ 52] _StrStr
+<<dead>> 	0x00000010	[ 52] _InternalIsDecimalDigitCharacter
+<<dead>> 	0x00000013	[ 52] _InternalCharToUpper
+<<dead>> 	0x00000029	[ 52] _InternalHexCharToUintn
+<<dead>> 	0x0000001F	[ 52] _InternalIsHexaDecimalDigitCharacter
+<<dead>> 	0x00000021	[ 52] _StrDecimalToUintn
+<<dead>> 	0x00000021	[ 52] _StrDecimalToUint64
+<<dead>> 	0x00000021	[ 52] _StrHexToUintn
+<<dead>> 	0x00000021	[ 52] _StrHexToUint64
+<<dead>> 	0x0000000F	[ 52] _InternalAsciiIsDecimalDigitCharacter
+<<dead>> 	0x0000001C	[ 52] _InternalAsciiIsHexaDecimalDigitCharacter
+<<dead>> 	0x00000031	[ 52] _UnicodeStrToAsciiStr
+<<dead>> 	0x0000002B	[ 52] _AsciiStrCpy
+<<dead>> 	0x00000054	[ 52] _AsciiStrnCpy
+<<dead>> 	0x0000001F	[ 52] _AsciiStrLen
+<<dead>> 	0x00000024	[ 52] _AsciiStrSize
+<<dead>> 	0x0000002A	[ 52] _AsciiStrCmp
+<<dead>> 	0x00000017	[ 52] _InternalBaseLibAsciiToUpper
+<<dead>> 	0x00000035	[ 52] _InternalAsciiHexCharToUintn
+<<dead>> 	0x0000008D	[ 52] _AsciiStriCmp
+<<dead>> 	0x00000045	[ 52] _AsciiStrnCmp
+<<dead>> 	0x00000046	[ 52] _AsciiStrCat
+<<dead>> 	0x00000049	[ 52] _AsciiStrnCat
+<<dead>> 	0x00000063	[ 52] _AsciiStrStr
+<<dead>> 	0x00000021	[ 52] _AsciiStrDecimalToUintn
+<<dead>> 	0x00000021	[ 52] _AsciiStrDecimalToUint64
+<<dead>> 	0x00000021	[ 52] _AsciiStrHexToUintn
+<<dead>> 	0x00000021	[ 52] _AsciiStrHexToUint64
+<<dead>> 	0x00000032	[ 52] _AsciiStrToUnicodeStr
+<<dead>> 	0x00000020	[ 52] _DecimalToBcd8
+<<dead>> 	0x00000018	[ 52] _BcdToDecimal8
+<<dead>> 	0x00000054	[ 53] _PathRemoveLastItem
+<<dead>> 	0x00000189	[ 53] _PathCleanUpDirectories
+<<dead>> 	0x00000008	[ 53] l_.str
+<<dead>> 	0x00000006	[ 53] l_.str.1
+<<dead>> 	0x00000008	[ 53] l_.str.2
+<<dead>> 	0x00000006	[ 53] l_.str.3
+<<dead>> 	0x00000000	[ 54] IA32_REGS
+<<dead>> 	0x00000000	[ 54] IA32_REGS._EDI
+<<dead>> 	0x00000000	[ 54] IA32_REGS._ESI
+<<dead>> 	0x00000000	[ 54] IA32_REGS._EBP
+<<dead>> 	0x00000000	[ 54] IA32_REGS._ESP
+<<dead>> 	0x00000000	[ 54] IA32_REGS._EBX
+<<dead>> 	0x00000000	[ 54] IA32_REGS._EDX
+<<dead>> 	0x00000000	[ 54] IA32_REGS._ECX
+<<dead>> 	0x00000000	[ 54] IA32_REGS._EAX
+<<dead>> 	0x00000000	[ 54] IA32_REGS._DS
+<<dead>> 	0x00000000	[ 54] IA32_REGS._ES
+<<dead>> 	0x00000000	[ 54] IA32_REGS._FS
+<<dead>> 	0x00000000	[ 54] IA32_REGS._GS
+<<dead>> 	0x00000000	[ 54] IA32_REGS._EFLAGS
+<<dead>> 	0x00000000	[ 54] IA32_REGS._EIP
+<<dead>> 	0x00000000	[ 54] IA32_REGS._CS
+<<dead>> 	0x00000000	[ 54] IA32_REGS._SS
+<<dead>> 	0x00000000	[ 54] IA32_REGS.size
+<<dead>> 	0x00000000	[ 54] IA32_REGS_size
+<<dead>> 	0x00000000	[ 54] CODE16
+<<dead>> 	0x00000000	[ 54] DATA16
+<<dead>> 	0x00000000	[ 54] DATA32
+<<dead>> 	0x00000000	[ 54] GDT_SIZE
+<<dead>> 	0x00000006	[ 56] _InternalX86EnablePaging32
+<<dead>> 	0x00000006	[ 56] _InternalX86DisablePaging32
+<<dead>> 	0x00000006	[ 56] _InternalX86EnablePaging64
+<<dead>> 	0x0000000E	[ 57] _InternalMathLShiftU64
+<<dead>> 	0x0000000E	[ 57] _InternalMathRShiftU64
+<<dead>> 	0x0000000E	[ 57] _InternalMathARShiftU64
+<<dead>> 	0x0000000E	[ 57] _InternalMathLRotU64
+<<dead>> 	0x0000000E	[ 57] _InternalMathRRotU64
+<<dead>> 	0x00000033	[ 57] _InternalMathSwapBytes64
+<<dead>> 	0x0000000C	[ 57] _InternalMathMultU64x32
+<<dead>> 	0x0000000D	[ 57] _InternalMathMultU64x64
+<<dead>> 	0x00000010	[ 57] _InternalMathDivU64x32
+<<dead>> 	0x00000013	[ 57] _InternalMathModU64x32
+<<dead>> 	0x00000019	[ 57] _InternalMathDivRemU64x64
+<<dead>> 	0x00000019	[ 57] _InternalMathDivRemS64x64
+<<dead>> 	0x0000000B	[ 58] _WriteUnaligned16
+<<dead>> 	0x0000000D	[ 58] _ReadUnaligned24
+<<dead>> 	0x0000002D	[ 58] _WriteUnaligned24
+<<dead>> 	0x0000000A	[ 58] _WriteUnaligned32
+<<dead>> 	0x00000009	[ 58] _ReadUnaligned64
+<<dead>> 	0x0000000C	[ 58] _WriteUnaligned64
+<<dead>> 	0x0000000A	[ 59] _AsmWriteIdtr
+<<dead>> 	0x0000000A	[ 60] _AsmWriteGdtr
+<<dead>> 	0x00000015	[ 61] _AsmGetThunk16Properties
+<<dead>> 	0x00000094	[ 61] _AsmPrepareThunk16
+<<dead>> 	0x0000002F	[ 61] _AsmThunk16
+<<dead>> 	0x00000034	[ 61] _AsmPrepareAndThunk16
+<<dead>> 	0x0000000A	[ 62] _AsmReadIdtr
+<<dead>> 	0x0000000A	[ 63] _AsmReadGdtr
+<<dead>> 	0x0000000A	[ 64] _AsmReadMsr32
+<<dead>> 	0x0000000C	[ 64] _AsmWriteMsr32
+<<dead>> 	0x00000027	[ 64] _AsmMsrOr32
+<<dead>> 	0x00000028	[ 64] _AsmMsrOr64
+<<dead>> 	0x00000026	[ 64] _AsmMsrAnd32
+<<dead>> 	0x00000028	[ 64] _AsmMsrAnd64
+<<dead>> 	0x0000002D	[ 64] _AsmMsrAndThenOr32
+<<dead>> 	0x00000030	[ 64] _AsmMsrAndThenOr64
+<<dead>> 	0x00000029	[ 64] _AsmMsrBitFieldRead32
+<<dead>> 	0x0000000D	[ 64] _AsmMsrBitFieldWrite32
+<<dead>> 	0x00000044	[ 64] _AsmMsrBitFieldWrite64
+<<dead>> 	0x0000000D	[ 64] _AsmMsrBitFieldOr32
+<<dead>> 	0x00000044	[ 64] _AsmMsrBitFieldOr64
+<<dead>> 	0x0000000D	[ 64] _AsmMsrBitFieldAnd32
+<<dead>> 	0x00000044	[ 64] _AsmMsrBitFieldAnd64
+<<dead>> 	0x0000001E	[ 64] _AsmMsrBitFieldAndThenOr32
+<<dead>> 	0x00000051	[ 64] _AsmMsrBitFieldAndThenOr64
+<<dead>> 	0x0000002A	[ 64] _AsmMsrBitFieldRead64
+<<dead>> 	0x00000019	[ 65] _GetInterruptState
+<<dead>> 	0x00000022	[ 66] _AsmFxSave
+<<dead>> 	0x0000000A	[ 67] _AsmFxRestore
+<<dead>> 	0x0000000A	[ 68] _AsmEnablePaging64
+<<dead>> 	0x0000000A	[ 69] _AsmEnablePaging32
+<<dead>> 	0x0000000A	[ 70] _AsmDisablePaging64
+<<dead>> 	0x0000000A	[ 71] _AsmDisablePaging32
+<<dead>> 	0x0000000A	[ 72] _AsmRdRand16
+<<dead>> 	0x0000000A	[ 72] _AsmRdRand32
+<<dead>> 	0x0000000A	[ 72] _AsmRdRand64
+<<dead>> 	0x00000006	[ 73] _MemoryFence
+<<dead>> 	0x00000007	[ 73] _EnableInterrupts
+<<dead>> 	0x00000007	[ 73] _DisableInterrupts
+<<dead>> 	0x00000008	[ 73] _CpuPause
+<<dead>> 	0x00000007	[ 73] _CpuBreakpoint
+<<dead>> 	0x00000011	[ 73] _AsmReadMsr64
+<<dead>> 	0x0000000F	[ 73] _AsmWriteMsr64
+<<dead>> 	0x00000008	[ 73] _AsmReadEflags
+<<dead>> 	0x00000009	[ 73] _AsmReadCr0
+<<dead>> 	0x00000009	[ 73] _AsmReadCr2
+<<dead>> 	0x00000009	[ 73] _AsmReadCr3
+<<dead>> 	0x00000009	[ 73] _AsmReadCr4
+<<dead>> 	0x0000000C	[ 73] _AsmWriteCr0
+<<dead>> 	0x0000000C	[ 73] _AsmWriteCr2
+<<dead>> 	0x0000000C	[ 73] _AsmWriteCr3
+<<dead>> 	0x0000000C	[ 73] _AsmWriteCr4
+<<dead>> 	0x00000009	[ 73] _AsmReadDr0
+<<dead>> 	0x00000009	[ 73] _AsmReadDr1
+<<dead>> 	0x00000009	[ 73] _AsmReadDr2
+<<dead>> 	0x00000009	[ 73] _AsmReadDr3
+<<dead>> 	0x00000009	[ 73] _AsmReadDr4
+<<dead>> 	0x00000009	[ 73] _AsmReadDr5
+<<dead>> 	0x00000009	[ 73] _AsmReadDr6
+<<dead>> 	0x00000009	[ 73] _AsmReadDr7
+<<dead>> 	0x0000000C	[ 73] _AsmWriteDr0
+<<dead>> 	0x0000000C	[ 73] _AsmWriteDr1
+<<dead>> 	0x0000000C	[ 73] _AsmWriteDr2
+<<dead>> 	0x0000000C	[ 73] _AsmWriteDr3
+<<dead>> 	0x0000000C	[ 73] _AsmWriteDr4
+<<dead>> 	0x0000000C	[ 73] _AsmWriteDr5
+<<dead>> 	0x0000000C	[ 73] _AsmWriteDr6
+<<dead>> 	0x0000000C	[ 73] _AsmWriteDr7
+<<dead>> 	0x00000009	[ 73] _AsmReadCs
+<<dead>> 	0x00000009	[ 73] _AsmReadDs
+<<dead>> 	0x00000009	[ 73] _AsmReadEs
+<<dead>> 	0x00000009	[ 73] _AsmReadFs
+<<dead>> 	0x00000009	[ 73] _AsmReadGs
+<<dead>> 	0x00000009	[ 73] _AsmReadSs
+<<dead>> 	0x0000000A	[ 73] _AsmReadTr
+<<dead>> 	0x00000009	[ 73] _InternalX86ReadGdtr
+<<dead>> 	0x00000009	[ 73] _InternalX86WriteGdtr
+<<dead>> 	0x00000009	[ 73] _InternalX86ReadIdtr
+<<dead>> 	0x00000009	[ 73] _InternalX86WriteIdtr
+<<dead>> 	0x00000013	[ 73] _AsmReadLdtr
+<<dead>> 	0x00000013	[ 73] _AsmWriteLdtr
+<<dead>> 	0x00000009	[ 73] _InternalX86FxSave
+<<dead>> 	0x00000009	[ 73] _InternalX86FxRestore
+<<dead>> 	0x0000000A	[ 73] _AsmReadMm0
+<<dead>> 	0x0000000A	[ 73] _AsmReadMm1
+<<dead>> 	0x0000000A	[ 73] _AsmReadMm2
+<<dead>> 	0x0000000A	[ 73] _AsmReadMm3
+<<dead>> 	0x0000000A	[ 73] _AsmReadMm4
+<<dead>> 	0x0000000A	[ 73] _AsmReadMm5
+<<dead>> 	0x0000000A	[ 73] _AsmReadMm6
+<<dead>> 	0x0000000A	[ 73] _AsmReadMm7
+<<dead>> 	0x00000013	[ 73] _AsmWriteMm0
+<<dead>> 	0x00000013	[ 73] _AsmWriteMm1
+<<dead>> 	0x00000013	[ 73] _AsmWriteMm2
+<<dead>> 	0x00000013	[ 73] _AsmWriteMm3
+<<dead>> 	0x00000013	[ 73] _AsmWriteMm4
+<<dead>> 	0x00000013	[ 73] _AsmWriteMm5
+<<dead>> 	0x00000013	[ 73] _AsmWriteMm6
+<<dead>> 	0x00000013	[ 73] _AsmWriteMm7
+<<dead>> 	0x00000011	[ 73] _AsmReadTsc
+<<dead>> 	0x00000011	[ 73] _AsmReadPmc
+<<dead>> 	0x00000012	[ 73] _AsmMonitor
+<<dead>> 	0x0000000F	[ 73] _AsmMwait
+<<dead>> 	0x00000008	[ 73] _AsmWbinvd
+<<dead>> 	0x00000008	[ 73] _AsmInvd
+<<dead>> 	0x0000000C	[ 73] _AsmFlushCacheLine
+<<dead>> 	0x00000006	[ 84] ___chkstk
+<<dead>> 	0x0000003C	[ 86] _InternalAllocatePages
+<<dead>> 	0x0000003F	[ 86] _AllocatePages
+<<dead>> 	0x0000003F	[ 86] _AllocateRuntimePages
+<<dead>> 	0x0000003C	[ 86] _AllocateReservedPages
+<<dead>> 	0x00000013	[ 86] _FreePages
+<<dead>> 	0x000000E8	[ 86] _InternalAllocateAlignedPages
+<<dead>> 	0x00000015	[ 86] _AllocateAlignedPages
+<<dead>> 	0x00000015	[ 86] _AllocateAlignedRuntimePages
+<<dead>> 	0x00000012	[ 86] _AllocateAlignedReservedPages
+<<dead>> 	0x00000013	[ 86] _FreeAlignedPages
+<<dead>> 	0x00000029	[ 86] _InternalAllocatePool
+<<dead>> 	0x00000031	[ 86] _AllocateRuntimePool
+<<dead>> 	0x00000031	[ 86] _AllocateReservedPool
+<<dead>> 	0x0000003C	[ 86] _InternalAllocateZeroPool
+<<dead>> 	0x00000012	[ 86] _AllocateZeroPool
+<<dead>> 	0x00000012	[ 86] _AllocateRuntimeZeroPool
+<<dead>> 	0x0000000F	[ 86] _AllocateReservedZeroPool
+<<dead>> 	0x00000044	[ 86] _InternalAllocateCopyPool
+<<dead>> 	0x00000015	[ 86] _AllocateCopyPool
+<<dead>> 	0x00000015	[ 86] _AllocateRuntimeCopyPool
+<<dead>> 	0x00000012	[ 86] _AllocateReservedCopyPool
+<<dead>> 	0x0000005B	[ 86] _InternalReallocatePool
+<<dead>> 	0x00000018	[ 86] _ReallocatePool
+<<dead>> 	0x00000018	[ 86] _ReallocateRuntimePool
+<<dead>> 	0x00000015	[ 86] _ReallocateReservedPool
+<<dead>> 	0x00000041	[ 87] _BasePrintLibFillBuffer
+<<dead>> 	0x00000051	[ 87] _BasePrintLibValueToString
+<<dead>> 	0x000001F7	[ 87] _BasePrintLibConvertValueToString
+<<dead>> 	0x0000034E	[ 87] _BasePrintLibConvertValueToStringS
+<<dead>> 	0x00000033	[ 88] _UnicodeBSPrint
+<<dead>> 	0x0000003E	[ 88] _UnicodeSPrint
+<<dead>> 	0x00000030	[ 88] _UnicodeVSPrintAsciiFormat
+<<dead>> 	0x00000033	[ 88] _UnicodeBSPrintAsciiFormat
+<<dead>> 	0x0000003E	[ 88] _UnicodeSPrintAsciiFormat
+<<dead>> 	0x0000001C	[ 88] _UnicodeValueToString
+<<dead>> 	0x00000025	[ 88] _UnicodeValueToStringS
+<<dead>> 	0x0000002A	[ 88] _AsciiVSPrint
+<<dead>> 	0x0000002D	[ 88] _AsciiBSPrint
+<<dead>> 	0x00000038	[ 88] _AsciiSPrint
+<<dead>> 	0x0000002D	[ 88] _AsciiVSPrintUnicodeFormat
+<<dead>> 	0x00000030	[ 88] _AsciiBSPrintUnicodeFormat
+<<dead>> 	0x0000003B	[ 88] _AsciiSPrintUnicodeFormat
+<<dead>> 	0x0000001C	[ 88] _AsciiValueToString
+<<dead>> 	0x00000025	[ 88] _AsciiValueToStringS
+<<dead>> 	0x0000002E	[ 88] _SPrintLength
+<<dead>> 	0x0000002E	[ 88] _SPrintLengthAsciiFormat
+<<dead>> 	0x00000018	[ 88] _gNullVaList
+<<dead>> 	0x000000B3	[ 89] _IsDevicePathValid
+<<dead>> 	0x00000019	[ 89] _IsDevicePathEnd
+<<dead>> 	0x0000001A	[ 89] _DevicePathNodeLength
+<<dead>> 	0x00000019	[ 89] _IsDevicePathEndInstance
+<<dead>> 	0x0000000E	[ 89] _SetDevicePathNodeLength
+<<dead>> 	0x00000017	[ 89] _SetDevicePathEndNode
+<<dead>> 	0x0000006A	[ 89] _UefiDevicePathLibGetDevicePathSize
+<<dead>> 	0x00000030	[ 89] _UefiDevicePathLibDuplicateDevicePath
+<<dead>> 	0x000000CC	[ 89] _UefiDevicePathLibAppendDevicePath
+<<dead>> 	0x000000A3	[ 89] _UefiDevicePathLibAppendDevicePathNode
+<<dead>> 	0x000000EC	[ 89] _UefiDevicePathLibAppendDevicePathInstance
+<<dead>> 	0x000000B7	[ 89] _UefiDevicePathLibGetNextDevicePathInstance
+<<dead>> 	0x00000053	[ 89] _UefiDevicePathLibCreateDeviceNode
+<<dead>> 	0x00000055	[ 89] _UefiDevicePathLibIsDevicePathMultiInstance
+<<dead>> 	0x000000CA	[ 89] _FileDevicePath
+<<dead>> 	0x00000004	[ 89] _mUefiDevicePathLibEndDevicePath
+<<dead>> 	0x00000094	[ 90] _UefiDevicePathLibCatPrint
+<<dead>> 	0x00000024	[ 90] _DevPathToTextPci
+<<dead>> 	0x0000001F	[ 90] _DevPathToTextPccard
+<<dead>> 	0x0000002B	[ 90] _DevPathToTextMemMap
+<<dead>> 	0x0000030E	[ 90] _DevPathToTextVendor
+<<dead>> 	0x0000001E	[ 90] _DevPathToTextController
+<<dead>> 	0x00000037	[ 90] _DevPathToTextBmc
+<<dead>> 	0x000000D4	[ 90] _DevPathToTextAcpi
+<<dead>> 	0x000001BF	[ 90] _DevPathToTextAcpiEx
+<<dead>> 	0x00000090	[ 90] _DevPathToTextAcpiAdr
+<<dead>> 	0x00000066	[ 90] _DevPathToTextAtapi
+<<dead>> 	0x00000024	[ 90] _DevPathToTextScsi
+<<dead>> 	0x00000022	[ 90] _DevPathToTextFibre
+<<dead>> 	0x00000090	[ 90] _DevPathToTextFibreEx
+<<dead>> 	0x00000172	[ 90] _DevPathToTextSasEx
+<<dead>> 	0x00000065	[ 90] _DevPathToTextNVMe
+<<dead>> 	0x00000024	[ 90] _DevPathToTextUfs
+<<dead>> 	0x0000001F	[ 90] _DevPathToTextSd
+<<dead>> 	0x0000001F	[ 90] _DevPathToTextEmmc
+<<dead>> 	0x0000001E	[ 90] _DevPathToText1394
+<<dead>> 	0x00000024	[ 90] _DevPathToTextUsb
+<<dead>> 	0x00000084	[ 90] _DevPathToTextUsbWWID
+<<dead>> 	0x0000001F	[ 90] _DevPathToTextLogicalUnit
+<<dead>> 	0x000001D2	[ 90] _DevPathToTextUsbClass
+<<dead>> 	0x0000002C	[ 90] _DevPathToTextSata
+<<dead>> 	0x0000001E	[ 90] _DevPathToTextI2O
+<<dead>> 	0x00000078	[ 90] _DevPathToTextMacAddr
+<<dead>> 	0x00000041	[ 90] _CatNetworkProtocol
+<<dead>> 	0x00000033	[ 90] _CatIPv4Address
+<<dead>> 	0x000000D9	[ 90] _CatIPv6Address
+<<dead>> 	0x00000152	[ 90] _DevPathToTextIPv4
+<<dead>> 	0x000000D0	[ 90] _DevPathToTextIPv6
+<<dead>> 	0x0000003D	[ 90] _DevPathToTextInfiniBand
+<<dead>> 	0x000000C3	[ 90] _DevPathToTextUart
+<<dead>> 	0x000000DB	[ 90] _DevPathToTextiSCSI
+<<dead>> 	0x0000001F	[ 90] _DevPathToTextVlan
+<<dead>> 	0x00000048	[ 90] _DevPathToTextBluetooth
+<<dead>> 	0x00000041	[ 90] _DevPathToTextWiFi
+<<dead>> 	0x00000052	[ 90] _DevPathToTextBluetoothLE
+<<dead>> 	0x000000C9	[ 90] _DevPathToTextDns
+<<dead>> 	0x0000006E	[ 90] _DevPathToTextUri
+<<dead>> 	0x00000093	[ 90] _DevPathToTextHardDrive
+<<dead>> 	0x00000040	[ 90] _DevPathToTextCDROM
+<<dead>> 	0x0000001E	[ 90] _DevPathToTextFilePath
+<<dead>> 	0x0000001E	[ 90] _DevPathToTextMediaProtocol
+<<dead>> 	0x0000001E	[ 90] _DevPathToTextFv
+<<dead>> 	0x0000001E	[ 90] _DevPathToTextFvFile
+<<dead>> 	0x00000022	[ 90] _DevPathRelativeOffsetRange
+<<dead>> 	0x0000017B	[ 90] _DevPathToTextRamDisk
+<<dead>> 	0x0000008F	[ 90] _DevPathToTextBBS
+<<dead>> 	0x0000001A	[ 90] _DevPathToTextEndInstance
+<<dead>> 	0x000000F7	[ 90] _DevPathToTextNodeGeneric
+<<dead>> 	0x00000097	[ 90] _UefiDevicePathLibConvertDeviceNodeToText
+<<dead>> 	0x00000127	[ 90] _UefiDevicePathLibConvertDevicePathToText
+<<dead>> 	0x0000001E	[ 90] l_.str
+<<dead>> 	0x0000001A	[ 90] l_.str.1
+<<dead>> 	0x0000003E	[ 90] l_.str.2
+<<dead>> 	0x00000006	[ 90] l_.str.3
+<<dead>> 	0x00000008	[ 90] l_.str.4
+<<dead>> 	0x00000018	[ 90] l_.str.5
+<<dead>> 	0x00000016	[ 90] l_.str.6
+<<dead>> 	0x0000001E	[ 90] l_.str.7
+<<dead>> 	0x00000014	[ 90] l_.str.8
+<<dead>> 	0x00000022	[ 90] l_.str.9
+<<dead>> 	0x0000000A	[ 90] l_.str.10
+<<dead>> 	0x00000012	[ 90] l_.str.11
+<<dead>> 	0x00000010	[ 90] l_.str.12
+<<dead>> 	0x0000002C	[ 90] l_.str.13
+<<dead>> 	0x00000024	[ 90] l_.str.14
+<<dead>> 	0x00000014	[ 90] l_.str.15
+<<dead>> 	0x0000000A	[ 90] l_.str.16
+<<dead>> 	0x00000008	[ 90] l_.str.17
+<<dead>> 	0x00000012	[ 90] l_.str.18
+<<dead>> 	0x00000012	[ 90] l_.str.19
+<<dead>> 	0x00000012	[ 90] l_.str.20
+<<dead>> 	0x0000000E	[ 90] l_.str.21
+<<dead>> 	0x00000006	[ 90] l_.str.22
+<<dead>> 	0x0000000C	[ 90] l_.str.23
+<<dead>> 	0x00000018	[ 90] l_.str.24
+<<dead>> 	0x0000000C	[ 90] l_.str.25
+<<dead>> 	0x00000018	[ 90] l_.str.26
+<<dead>> 	0x0000000C	[ 90] l_.str.27
+<<dead>> 	0x00000004	[ 90] l_.str.28
+<<dead>> 	0x0000000E	[ 90] l_.str.29
+<<dead>> 	0x00000006	[ 90] l_.str.30
+<<dead>> 	0x00000004	[ 90] l_.str.31
+<<dead>> 	0x0000000A	[ 90] l_.str.32
+<<dead>> 	0x00000004	[ 90] l_.str.33
+<<dead>> 	0x00000016	[ 90] l_.str.34
+<<dead>> 	0x00000020	[ 90] l_.str.35
+<<dead>> 	0x0000001C	[ 90] l_.str.36
+<<dead>> 	0x0000001E	[ 90] l_.str.37
+<<dead>> 	0x0000001A	[ 90] l_.str.38
+<<dead>> 	0x0000001E	[ 90] l_.str.39
+<<dead>> 	0x0000001A	[ 90] l_.str.40
+<<dead>> 	0x00000026	[ 90] l_.str.41
+<<dead>> 	0x00000026	[ 90] l_.str.42
+<<dead>> 	0x00000024	[ 90] l_.str.43
+<<dead>> 	0x00000016	[ 90] l_.str.44
+<<dead>> 	0x00000024	[ 90] l_.str.45
+<<dead>> 	0x00000016	[ 90] l_.str.46
+<<dead>> 	0x00000016	[ 90] l_.str.47
+<<dead>> 	0x00000008	[ 90] l_.str.48
+<<dead>> 	0x00000008	[ 90] l_.str.49
+<<dead>> 	0x00000008	[ 90] l_.str.50
+<<dead>> 	0x00000038	[ 90] l_.str.51
+<<dead>> 	0x0000001A	[ 90] l_.str.52
+<<dead>> 	0x0000000C	[ 90] l_.str.53
+<<dead>> 	0x00000014	[ 90] l_.str.54
+<<dead>> 	0x00000020	[ 90] l_.str.55
+<<dead>> 	0x00000014	[ 90] l_.str.56
+<<dead>> 	0x00000010	[ 90] l_.str.57
+<<dead>> 	0x0000000C	[ 90] l_.str.58
+<<dead>> 	0x0000000E	[ 90] l_.str.59
+<<dead>> 	0x00000020	[ 90] l_.str.60
+<<dead>> 	0x00000026	[ 90] l_.str.61
+<<dead>> 	0x00000016	[ 90] l_.str.62
+<<dead>> 	0x00000008	[ 90] l_.str.63
+<<dead>> 	0x00000012	[ 90] l_.str.64
+<<dead>> 	0x0000000E	[ 90] l_.str.65
+<<dead>> 	0x00000022	[ 90] l_.str.66
+<<dead>> 	0x00000004	[ 90] l_.str.67
+<<dead>> 	0x0000000A	[ 90] l_.str.68
+<<dead>> 	0x00000016	[ 90] l_.str.69
+<<dead>> 	0x00000066	[ 90] l_.str.70
+<<dead>> 	0x0000001E	[ 90] l_.str.71
+<<dead>> 	0x00000012	[ 90] l_.str.72
+<<dead>> 	0x00000016	[ 90] l_.str.73
+<<dead>> 	0x0000001C	[ 90] l_.str.74
+<<dead>> 	0x0000001E	[ 90] l_.str.75
+<<dead>> 	0x0000003A	[ 90] l_.str.76
+<<dead>> 	0x00000016	[ 90] l_.str.77
+<<dead>> 	0x00000012	[ 90] l_.str.78
+<<dead>> 	0x0000001C	[ 90] l_.str.79
+<<dead>> 	0x0000000E	[ 90] l_.str.80
+<<dead>> 	0x00000012	[ 90] l_.str.81
+<<dead>> 	0x00000016	[ 90] l_.str.82
+<<dead>> 	0x0000001E	[ 90] l_.str.83
+<<dead>> 	0x0000000E	[ 90] l_.str.84
+<<dead>> 	0x00000016	[ 90] l_.str.85
+<<dead>> 	0x0000001A	[ 90] l_.str.86
+<<dead>> 	0x00000012	[ 90] l_.str.87
+<<dead>> 	0x0000001C	[ 90] l_.str.88
+<<dead>> 	0x00000018	[ 90] l_.str.89
+<<dead>> 	0x0000002C	[ 90] l_.str.90
+<<dead>> 	0x00000050	[ 90] l_.str.91
+<<dead>> 	0x0000003C	[ 90] l_.str.92
+<<dead>> 	0x0000004C	[ 90] l_.str.93
+<<dead>> 	0x00000046	[ 90] l_.str.94
+<<dead>> 	0x0000002A	[ 90] l_.str.95
+<<dead>> 	0x00000014	[ 90] l_.str.96
+<<dead>> 	0x0000000A	[ 90] l_.str.97
+<<dead>> 	0x0000000E	[ 90] l_.str.98
+<<dead>> 	0x00000008	[ 90] l_.str.99
+<<dead>> 	0x00000008	[ 90] l_.str.100
+<<dead>> 	0x00000018	[ 90] l_.str.101
+<<dead>> 	0x00000090	[ 90] l_.str.102
+<<dead>> 	0x0000000C	[ 90] l_.str.103
+<<dead>> 	0x0000000A	[ 90] l_.str.104
+<<dead>> 	0x0000000E	[ 90] l_.str.105
+<<dead>> 	0x0000000A	[ 90] l_.str.106
+<<dead>> 	0x0000000C	[ 90] l_.str.107
+<<dead>> 	0x00000012	[ 90] l_.str.108
+<<dead>> 	0x00000032	[ 90] l_.str.109
+<<dead>> 	0x00000030	[ 90] l_.str.110
+<<dead>> 	0x0000004C	[ 90] l_.str.111
+<<dead>> 	0x0000001C	[ 90] l_.str.112
+<<dead>> 	0x00000014	[ 90] l_.str.113
+<<dead>> 	0x00000012	[ 90] l_.str.114
+<<dead>> 	0x00000008	[ 90] l_.str.115
+<<dead>> 	0x00000008	[ 90] l_.str.116
+<<dead>> 	0x00000006	[ 90] l_.str.117
+<<dead>> 	0x00000006	[ 90] l_.str.118
+<<dead>> 	0x0000000A	[ 90] l_.str.119
+<<dead>> 	0x00000006	[ 90] l_.str.120
+<<dead>> 	0x00000006	[ 90] l_.str.121
+<<dead>> 	0x0000002A	[ 90] l_.str.122
+<<dead>> 	0x00000008	[ 90] l_.str.123
+<<dead>> 	0x0000000E	[ 90] l_.str.124
+<<dead>> 	0x00000012	[ 90] l_.str.125
+<<dead>> 	0x00000010	[ 90] l_.str.126
+<<dead>> 	0x00000012	[ 90] l_.str.127
+<<dead>> 	0x00000012	[ 90] l_.str.128
+<<dead>> 	0x00000048	[ 90] l_.str.129
+<<dead>> 	0x00000014	[ 90] l_.str.130
+<<dead>> 	0x0000005A	[ 90] l_.str.131
+<<dead>> 	0x0000000A	[ 90] l_.str.132
+<<dead>> 	0x00000010	[ 90] l_.str.133
+<<dead>> 	0x00000022	[ 90] l_.str.134
+<<dead>> 	0x00000008	[ 90] l_.str.135
+<<dead>> 	0x0000001A	[ 90] l_.str.136
+<<dead>> 	0x00000008	[ 90] l_.str.137
+<<dead>> 	0x00000018	[ 90] l_.str.138
+<<dead>> 	0x0000001A	[ 90] l_.str.139
+<<dead>> 	0x00000018	[ 90] l_.str.140
+<<dead>> 	0x00000030	[ 90] l_.str.141
+<<dead>> 	0x00000006	[ 90] l_.str.142
+<<dead>> 	0x00000014	[ 90] l_.str.143
+<<dead>> 	0x0000000E	[ 90] l_.str.144
+<<dead>> 	0x00000016	[ 90] l_.str.145
+<<dead>> 	0x00000028	[ 90] l_.str.146
+<<dead>> 	0x00000038	[ 90] l_.str.147
+<<dead>> 	0x00000034	[ 90] l_.str.148
+<<dead>> 	0x0000004C	[ 90] l_.str.149
+<<dead>> 	0x00000048	[ 90] l_.str.150
+<<dead>> 	0x00000036	[ 90] l_.str.151
+<<dead>> 	0x0000000E	[ 90] l_.str.152
+<<dead>> 	0x00000006	[ 90] l_.str.153
+<<dead>> 	0x0000000C	[ 90] l_.str.154
+<<dead>> 	0x0000000E	[ 90] l_.str.155
+<<dead>> 	0x00000008	[ 90] l_.str.156
+<<dead>> 	0x00000010	[ 90] l_.str.157
+<<dead>> 	0x00000014	[ 90] l_.str.158
+<<dead>> 	0x00000018	[ 90] l_.str.159
+<<dead>> 	0x0000001A	[ 90] l_.str.160
+<<dead>> 	0x00000012	[ 90] l_.str.161
+<<dead>> 	0x00000014	[ 90] l_.str.162
+<<dead>> 	0x00000010	[ 90] l_.str.163
+<<dead>> 	0x00000016	[ 90] l_.str.164
+<<dead>> 	0x0000000C	[ 90] l_.str.165
+<<dead>> 	0x00000004	[ 90] l_.str.166
+<<dead>> 	0x00000060	[ 90] _mUefiDevicePathLibToTextTableGeneric
+<<dead>> 	0x00000320	[ 90] _mUefiDevicePathLibToTextTable
+<<dead>> 	0x00000018	[ 90] l_switch.table.DevPathToTextUart
+<<dead>> 	0x00000010	[ 90] l_reltable.DevPathToTextUart
+<<dead>> 	0x00000018	[ 90] l_reltable.DevPathToTextBBS
+<<dead>> 	0x00000022	[ 91] _UefiDevicePathLibStrDuplicate
+<<dead>> 	0x00000077	[ 91] _GetParamByNodeName
+<<dead>> 	0x0000003E	[ 91] _SplitStr
+<<dead>> 	0x00000040	[ 91] _GetNextParamStr
+<<dead>> 	0x000000C0	[ 91] _GetNextDeviceNodeStr
+<<dead>> 	0x00000030	[ 91] _IsHexStr
+<<dead>> 	0x0000003C	[ 91] _Strtoi
+<<dead>> 	0x0000004E	[ 91] _Strtoi64
+<<dead>> 	0x00000034	[ 91] _StrToAscii
+<<dead>> 	0x000000BC	[ 91] _DevPathFromTextGenericPath
+<<dead>> 	0x0000004F	[ 91] _DevPathFromTextPath
+<<dead>> 	0x0000000F	[ 91] _DevPathFromTextHardwarePath
+<<dead>> 	0x0000009A	[ 91] _DevPathFromTextPci
+<<dead>> 	0x0000005C	[ 91] _DevPathFromTextPcCard
+<<dead>> 	0x000000E2	[ 91] _DevPathFromTextMemoryMapped
+<<dead>> 	0x000000CB	[ 91] _ConvertFromTextVendor
+<<dead>> 	0x0000000F	[ 91] _DevPathFromTextVenHw
+<<dead>> 	0x0000005C	[ 91] _DevPathFromTextCtrl
+<<dead>> 	0x000000A6	[ 91] _DevPathFromTextBmc
+<<dead>> 	0x0000000F	[ 91] _DevPathFromTextAcpiPath
+<<dead>> 	0x0000003C	[ 91] _EisaIdFromText
+<<dead>> 	0x000000C9	[ 91] _DevPathFromTextAcpi
+<<dead>> 	0x0000006C	[ 91] _ConvertFromTextAcpi
+<<dead>> 	0x0000000F	[ 91] _DevPathFromTextPciRoot
+<<dead>> 	0x0000000F	[ 91] _DevPathFromTextPcieRoot
+<<dead>> 	0x0000000F	[ 91] _DevPathFromTextFloppy
+<<dead>> 	0x0000000F	[ 91] _DevPathFromTextKeyboard
+<<dead>> 	0x0000000F	[ 91] _DevPathFromTextSerial
+<<dead>> 	0x0000000F	[ 91] _DevPathFromTextParallelPort
+<<dead>> 	0x000002BF	[ 91] _DevPathFromTextAcpiEx
+<<dead>> 	0x0000017F	[ 91] _DevPathFromTextAcpiExp
+<<dead>> 	0x000000B6	[ 91] _DevPathFromTextAcpiAdr
+<<dead>> 	0x0000000F	[ 91] _DevPathFromTextMsg
+<<dead>> 	0x00000157	[ 91] _DevPathFromTextAta
+<<dead>> 	0x0000009C	[ 91] _DevPathFromTextScsi
+<<dead>> 	0x000000A3	[ 91] _DevPathFromTextFibre
+<<dead>> 	0x000000BD	[ 91] _DevPathFromTextFibreEx
+<<dead>> 	0x00000064	[ 91] _DevPathFromText1394
+<<dead>> 	0x0000009A	[ 91] _DevPathFromTextUsb
+<<dead>> 	0x0000005C	[ 91] _DevPathFromTextI2O
+<<dead>> 	0x0000018D	[ 91] _DevPathFromTextInfiniband
+<<dead>> 	0x0000000F	[ 91] _DevPathFromTextVenMsg
+<<dead>> 	0x00000034	[ 91] _DevPathFromTextVenPcAnsi
+<<dead>> 	0x00000034	[ 91] _DevPathFromTextVenVt100
+<<dead>> 	0x00000034	[ 91] _DevPathFromTextVenVt100Plus
+<<dead>> 	0x00000034	[ 91] _DevPathFromTextVenUtf8
+<<dead>> 	0x000000A2	[ 91] _DevPathFromTextUartFlowCtrl
+<<dead>> 	0x000003BE	[ 91] _DevPathFromTextSAS
+<<dead>> 	0x00000380	[ 91] _DevPathFromTextSasEx
+<<dead>> 	0x000000E2	[ 91] _DevPathFromTextNVMe
+<<dead>> 	0x0000009A	[ 91] _DevPathFromTextUfs
+<<dead>> 	0x0000005C	[ 91] _DevPathFromTextSd
+<<dead>> 	0x0000005C	[ 91] _DevPathFromTextEmmc
+<<dead>> 	0x00000034	[ 91] _DevPathFromTextDebugPort
+<<dead>> 	0x000000B0	[ 91] _DevPathFromTextMAC
+<<dead>> 	0x00000052	[ 91] _NetworkProtocolFromText
+<<dead>> 	0x00000259	[ 91] _DevPathFromTextIPv4
+<<dead>> 	0x0000026D	[ 91] _DevPathFromTextIPv6
+<<dead>> 	0x00000243	[ 91] _DevPathFromTextUart
+<<dead>> 	0x0000019C	[ 91] _ConvertFromTextUsbClass
+<<dead>> 	0x0000001E	[ 91] _DevPathFromTextUsbClass
+<<dead>> 	0x00000020	[ 91] _DevPathFromTextUsbAudio
+<<dead>> 	0x00000020	[ 91] _DevPathFromTextUsbCDCControl
+<<dead>> 	0x00000020	[ 91] _DevPathFromTextUsbHID
+<<dead>> 	0x00000020	[ 91] _DevPathFromTextUsbImage
+<<dead>> 	0x00000020	[ 91] _DevPathFromTextUsbPrinter
+<<dead>> 	0x00000020	[ 91] _DevPathFromTextUsbMassStorage
+<<dead>> 	0x00000020	[ 91] _DevPathFromTextUsbHub
+<<dead>> 	0x00000020	[ 91] _DevPathFromTextUsbCDCData
+<<dead>> 	0x00000020	[ 91] _DevPathFromTextUsbSmartCard
+<<dead>> 	0x00000020	[ 91] _DevPathFromTextUsbVideo
+<<dead>> 	0x00000020	[ 91] _DevPathFromTextUsbDiagnostic
+<<dead>> 	0x00000020	[ 91] _DevPathFromTextUsbWireless
+<<dead>> 	0x0000001D	[ 91] _DevPathFromTextUsbDeviceFirmwareUpdate
+<<dead>> 	0x0000001D	[ 91] _DevPathFromTextUsbIrdaBridge
+<<dead>> 	0x0000001D	[ 91] _DevPathFromTextUsbTestAndMeasurement
+<<dead>> 	0x00000189	[ 91] _DevPathFromTextUsbWwid
+<<dead>> 	0x0000005C	[ 91] _DevPathFromTextUnit
+<<dead>> 	0x000002F7	[ 91] _DevPathFromTextiSCSI
+<<dead>> 	0x0000005D	[ 91] _DevPathFromTextVlan
+<<dead>> 	0x00000068	[ 91] _DevPathFromTextBluetooth
+<<dead>> 	0x000000A2	[ 91] _DevPathFromTextWiFi
+<<dead>> 	0x000000A6	[ 91] _DevPathFromTextBluetoothLE
+<<dead>> 	0x00000144	[ 91] _DevPathFromTextDns
+<<dead>> 	0x00000077	[ 91] _DevPathFromTextUri
+<<dead>> 	0x0000000F	[ 91] _DevPathFromTextMediaPath
+<<dead>> 	0x0000020C	[ 91] _DevPathFromTextHD
+<<dead>> 	0x000000E2	[ 91] _DevPathFromTextCDROM
+<<dead>> 	0x0000000F	[ 91] _DevPathFromTextVenMedia
+<<dead>> 	0x0000004E	[ 91] _DevPathFromTextFilePath
+<<dead>> 	0x0000005D	[ 91] _DevPathFromTextMedia
+<<dead>> 	0x0000005D	[ 91] _DevPathFromTextFv
+<<dead>> 	0x0000005D	[ 91] _DevPathFromTextFvFile
+<<dead>> 	0x0000009C	[ 91] _DevPathFromTextRelativeOffsetRange
+<<dead>> 	0x00000169	[ 91] _DevPathFromTextRamDisk
+<<dead>> 	0x00000128	[ 91] _DevPathFromTextVirtualDisk
+<<dead>> 	0x00000128	[ 91] _DevPathFromTextVirtualCd
+<<dead>> 	0x00000128	[ 91] _DevPathFromTextPersistentVirtualDisk
+<<dead>> 	0x00000128	[ 91] _DevPathFromTextPersistentVirtualCd
+<<dead>> 	0x0000000F	[ 91] _DevPathFromTextBbsPath
+<<dead>> 	0x000001B8	[ 91] _DevPathFromTextBBS
+<<dead>> 	0x000000E5	[ 91] _DevPathFromTextSata
+<<dead>> 	0x000000BF	[ 91] _UefiDevicePathLibConvertTextToDeviceNode
+<<dead>> 	0x00000114	[ 91] _UefiDevicePathLibConvertTextToDevicePath
+<<dead>> 	0x00000010	[ 91] l_.str
+<<dead>> 	0x00000014	[ 91] l_.str.1
+<<dead>> 	0x0000000E	[ 91] l_.str.2
+<<dead>> 	0x0000000C	[ 91] l_.str.3
+<<dead>> 	0x00000010	[ 91] l_.str.4
+<<dead>> 	0x00000012	[ 91] l_.str.5
+<<dead>> 	0x00000016	[ 91] l_.str.6
+<<dead>> 	0x0000000A	[ 91] l_.str.7
+<<dead>> 	0x00000008	[ 91] l_.str.8
+<<dead>> 	0x00000012	[ 91] l_.str.9
+<<dead>> 	0x00000012	[ 91] l_.str.10
+<<dead>> 	0x00000012	[ 91] l_.str.11
+<<dead>> 	0x0000000E	[ 91] l_.str.12
+<<dead>> 	0x00000008	[ 91] l_.str.13
+<<dead>> 	0x00000008	[ 91] l_.str.14
+<<dead>> 	0x0000000E	[ 91] l_.str.15
+<<dead>> 	0x0000002E	[ 91] l_.str.16
+<<dead>> 	0x00000010	[ 91] l_.str.17
+<<dead>> 	0x00000004	[ 91] l_.str.18
+<<dead>> 	0x00000004	[ 91] l_.str.19
+<<dead>> 	0x00000008	[ 91] l_.str.20
+<<dead>> 	0x00000004	[ 91] l_.str.21
+<<dead>> 	0x0000000E	[ 91] l_.str.22
+<<dead>> 	0x0000000A	[ 91] l_.str.23
+<<dead>> 	0x00000012	[ 91] l_.str.24
+<<dead>> 	0x00000008	[ 91] l_.str.25
+<<dead>> 	0x00000008	[ 91] l_.str.26
+<<dead>> 	0x0000000E	[ 91] l_.str.27
+<<dead>> 	0x00000006	[ 91] l_.str.28
+<<dead>> 	0x0000000C	[ 91] l_.str.29
+<<dead>> 	0x0000000E	[ 91] l_.str.30
+<<dead>> 	0x00000008	[ 91] l_.str.31
+<<dead>> 	0x00000010	[ 91] l_.str.32
+<<dead>> 	0x0000000A	[ 91] l_.str.33
+<<dead>> 	0x0000001A	[ 91] l_.str.34
+<<dead>> 	0x00000008	[ 91] l_.str.35
+<<dead>> 	0x0000000E	[ 91] l_.str.36
+<<dead>> 	0x0000001A	[ 91] l_.str.37
+<<dead>> 	0x0000000C	[ 91] l_.str.38
+<<dead>> 	0x0000000A	[ 91] l_.str.39
+<<dead>> 	0x00000008	[ 91] l_.str.40
+<<dead>> 	0x00000012	[ 91] l_.str.41
+<<dead>> 	0x0000000A	[ 91] l_.str.42
+<<dead>> 	0x00000010	[ 91] l_.str.43
+<<dead>> 	0x00000012	[ 91] l_.str.44
+<<dead>> 	0x00000012	[ 91] l_.str.45
+<<dead>> 	0x0000000E	[ 91] l_.str.46
+<<dead>> 	0x0000001A	[ 91] l_.str.47
+<<dead>> 	0x0000000E	[ 91] l_.str.48
+<<dead>> 	0x00000010	[ 91] l_.str.49
+<<dead>> 	0x00000010	[ 91] l_.str.50
+<<dead>> 	0x00000008	[ 91] l_.str.51
+<<dead>> 	0x00000008	[ 91] l_.str.52
+<<dead>> 	0x0000000A	[ 91] l_.str.53
+<<dead>> 	0x0000000C	[ 91] l_.str.54
+<<dead>> 	0x00000010	[ 91] l_.str.55
+<<dead>> 	0x0000000C	[ 91] l_.str.56
+<<dead>> 	0x00000008	[ 91] l_.str.57
+<<dead>> 	0x00000016	[ 91] l_.str.58
+<<dead>> 	0x0000000E	[ 91] l_.str.59
+<<dead>> 	0x00000014	[ 91] l_.str.60
+<<dead>> 	0x00000012	[ 91] l_.str.61
+<<dead>> 	0x0000001A	[ 91] l_.str.62
+<<dead>> 	0x00000010	[ 91] l_.str.63
+<<dead>> 	0x0000001A	[ 91] l_.str.64
+<<dead>> 	0x0000000C	[ 91] l_.str.65
+<<dead>> 	0x0000000A	[ 91] l_.str.66
+<<dead>> 	0x00000008	[ 91] l_.str.67
+<<dead>> 	0x00000006	[ 91] l_.str.68
+<<dead>> 	0x0000000A	[ 91] l_.str.69
+<<dead>> 	0x00000014	[ 91] l_.str.70
+<<dead>> 	0x00000008	[ 91] l_.str.71
+<<dead>> 	0x0000000A	[ 91] l_.str.72
+<<dead>> 	0x0000000A	[ 91] l_.str.73
+<<dead>> 	0x0000000A	[ 91] l_.str.74
+<<dead>> 	0x00000012	[ 91] l_.str.75
+<<dead>> 	0x00000012	[ 91] l_.str.76
+<<dead>> 	0x0000001C	[ 91] l_.str.77
+<<dead>> 	0x0000000E	[ 91] l_.str.78
+<<dead>> 	0x00000012	[ 91] l_.str.79
+<<dead>> 	0x00000016	[ 91] l_.str.80
+<<dead>> 	0x0000001E	[ 91] l_.str.81
+<<dead>> 	0x0000000E	[ 91] l_.str.82
+<<dead>> 	0x00000016	[ 91] l_.str.83
+<<dead>> 	0x0000001A	[ 91] l_.str.84
+<<dead>> 	0x00000012	[ 91] l_.str.85
+<<dead>> 	0x0000001C	[ 91] l_.str.86
+<<dead>> 	0x00000018	[ 91] l_.str.87
+<<dead>> 	0x00000030	[ 91] l_.str.88
+<<dead>> 	0x0000001C	[ 91] l_.str.89
+<<dead>> 	0x0000002C	[ 91] l_.str.90
+<<dead>> 	0x00000010	[ 91] l_.str.91
+<<dead>> 	0x0000000A	[ 91] l_.str.92
+<<dead>> 	0x0000000C	[ 91] l_.str.93
+<<dead>> 	0x0000000A	[ 91] l_.str.94
+<<dead>> 	0x00000008	[ 91] l_.str.95
+<<dead>> 	0x00000008	[ 91] l_.str.96
+<<dead>> 	0x00000014	[ 91] l_.str.97
+<<dead>> 	0x0000000C	[ 91] l_.str.98
+<<dead>> 	0x00000018	[ 91] l_.str.99
+<<dead>> 	0x00000014	[ 91] l_.str.100
+<<dead>> 	0x00000012	[ 91] l_.str.101
+<<dead>> 	0x0000000C	[ 91] l_.str.102
+<<dead>> 	0x00000006	[ 91] l_.str.103
+<<dead>> 	0x0000000E	[ 91] l_.str.104
+<<dead>> 	0x0000000E	[ 91] l_.str.105
+<<dead>> 	0x00000010	[ 91] l_.str.106
+<<dead>> 	0x00000018	[ 91] l_.str.107
+<<dead>> 	0x00000014	[ 91] l_.str.108
+<<dead>> 	0x0000002C	[ 91] l_.str.109
+<<dead>> 	0x00000028	[ 91] l_.str.110
+<<dead>> 	0x00000010	[ 91] l_.str.111
+<<dead>> 	0x00000008	[ 91] l_.str.112
+<<dead>> 	0x0000000A	[ 91] l_.str.113
+<<dead>> 	0x00000570	[ 91] _mUefiDevicePathLibDevPathFromTextTable
+<<dead>> 	0x0000000A	[ 92] _GetDevicePathSize
+<<dead>> 	0x0000000A	[ 92] _DuplicateDevicePath
+<<dead>> 	0x0000000A	[ 92] _AppendDevicePath
+<<dead>> 	0x0000000A	[ 92] _AppendDevicePathNode
+<<dead>> 	0x0000000A	[ 92] _AppendDevicePathInstance
+<<dead>> 	0x0000000A	[ 92] _GetNextDevicePathInstance
+<<dead>> 	0x0000000A	[ 92] _CreateDeviceNode
+<<dead>> 	0x0000000A	[ 92] _IsDevicePathMultiInstance
+<<dead>> 	0x0000000A	[ 92] _ConvertDeviceNodeToText
+<<dead>> 	0x0000000A	[ 92] _ConvertDevicePathToText
+<<dead>> 	0x0000000A	[ 92] _ConvertTextToDeviceNode
+<<dead>> 	0x0000000A	[ 92] _ConvertTextToDevicePath
+<<dead>> 	0x00000034	[ 94] _ErrorPrint
+<<dead>> 	0x00000073	[ 94] _AsciiInternalPrint
+<<dead>> 	0x00000034	[ 94] _AsciiPrint
+<<dead>> 	0x00000034	[ 94] _AsciiErrorPrint
+<<dead>> 	0x0000038C	[ 94] _InternalPrintGraphic
+<<dead>> 	0x0000008A	[ 94] _PrintXY
+<<dead>> 	0x0000008A	[ 94] _AsciiPrintXY
+<<dead>> 	0x000000BC	[ 94] _CatVSPrint
+<<dead>> 	0x00000025	[ 94] _CatSPrint
+<<dead>> 	0x00000040	[ 94] _mEfiColors
+<<dead>> 	0x0000005C	[ 95] _EfiCreateEventLegacyBoot
+<<dead>> 	0x00000068	[ 95] _EfiCreateEventLegacyBootEx
+<<dead>> 	0x0000005C	[ 95] _EfiCreateEventReadyToBoot
+<<dead>> 	0x00000068	[ 95] _EfiCreateEventReadyToBootEx
+<<dead>> 	0x00000075	[ 95] _EfiSignalEventReadyToBoot
+<<dead>> 	0x00000075	[ 95] _EfiSignalEventLegacyBoot
+<<dead>> 	0x00000037	[ 95] _EfiGetNameGuidFromFwVolDevicePathNode
+<<dead>> 	0x00000035	[ 95] _EfiInitializeFwVolDevicepathNode
+<<dead>> 	0x00000031	[ 96] _EfiLibInstallDriverBinding
+<<dead>> 	0x0000016A	[ 96] _EfiLibInstallAllDriverProtocols
+<<dead>> 	0x000000C5	[ 96] _EfiLibInstallDriverBindingComponentName2
+<<dead>> 	0x00000B29	[ 96] _EfiLibInstallAllDriverProtocols2
+<<dead>> 	0x00000061	[ 97] _GetGlyphWidth
+<<dead>> 	0x00000048	[ 97] _UnicodeStringDisplayLength
+<<dead>> 	0x00000080	[ 97] _UefiLibGetStringWidth
+<<dead>> 	0x000004A3	[ 97] _CreatePopUp
+<<dead>> 	0x00000090	[ 97] _mUnicodeWidthTable
+<<dead>> 	0x00000008	[ 97] l_.str
+<<dead>> 	0x00000029	[ 98] _CompareIso639LanguageCode
+<<dead>> 	0x0000007E	[ 98] _EfiGetSystemConfigurationTable
+<<dead>> 	0x00000059	[ 98] _EfiCreateProtocolNotifyEvent
+<<dead>> 	0x00000057	[ 98] _EfiNamedEventListen
+<<dead>> 	0x0000004F	[ 98] _EfiNamedEventSignal
+<<dead>> 	0x0000007C	[ 98] _EfiEventGroupSignal
+<<dead>> 	0x00000006	[ 98] _EfiEventEmptyFunction
+<<dead>> 	0x00000032	[ 98] _EfiGetCurrentTpl
+<<dead>> 	0x0000001B	[ 98] _EfiInitializeLock
+<<dead>> 	0x0000002B	[ 98] _EfiAcquireLock
+<<dead>> 	0x0000003F	[ 98] _EfiAcquireLockOrFail
+<<dead>> 	0x0000001E	[ 98] _EfiReleaseLock
+<<dead>> 	0x0000007F	[ 98] _EfiTestManagedDevice
+<<dead>> 	0x00000071	[ 98] _EfiTestChildHandle
+<<dead>> 	0x000000B8	[ 98] _LookupUnicodeString
+<<dead>> 	0x00000162	[ 98] _LookupUnicodeString2
+<<dead>> 	0x00000195	[ 98] _AddUnicodeString
+<<dead>> 	0x00000207	[ 98] _AddUnicodeString2
+<<dead>> 	0x0000004F	[ 98] _FreeUnicodeStringTable
+<<dead>> 	0x00000083	[ 98] _GetVariable
+<<dead>> 	0x00000011	[ 98] _GetEfiGlobalVariable
+<<dead>> 	0x000000D0	[ 98] _GetVariable2
+<<dead>> 	0x00000017	[ 98] _GetEfiGlobalVariable2
+<<dead>> 	0x0000013F	[ 98] _GetBestLanguage
+<<dead>> 	0x00000046	[ 99] _Exit
+<<dead>> 	0x0000000A	[ 99] _EfiMain
+<<dead>> 	0x000000FF	[103] _showpart
+<<dead>> 	0x00000668	[103] _analyze_part
+<<dead>> 	0x00000020	[103] l_.str
+<<dead>> 	0x00000032	[103] l_.str.1
+<<dead>> 	0x00000020	[103] l_.str.2
+<<dead>> 	0x00000024	[103] l_.str.3
+<<dead>> 	0x00000052	[103] l_.str.4
+<<dead>> 	0x00000062	[103] l_.str.5
+<<dead>> 	0x00000012	[103] l_.str.6
+<<dead>> 	0x00000002	[103] l_.str.7
+<<dead>> 	0x0000000A	[103] l_.str.9
+<<dead>> 	0x00000012	[103] l_.str.11
+<<dead>> 	0x00000012	[103] l_.str.13
+<<dead>> 	0x0000000A	[103] l_.str.15
+<<dead>> 	0x00000010	[103] l_.str.18
+<<dead>> 	0x0000000E	[103] l_.str.20
+<<dead>> 	0x0000001C	[103] l_.str.22
+<<dead>> 	0x00000030	[103] l_.str.24
+<<dead>> 	0x00000010	[103] l_.str.27
+<<dead>> 	0x00000018	[103] l_.str.30
+<<dead>> 	0x0000000A	[103] l_.str.32
+<<dead>> 	0x0000000A	[103] l_.str.34
+<<dead>> 	0x0000000C	[103] l_.str.36
+<<dead>> 	0x00000010	[103] l_.str.38
+<<dead>> 	0x0000003E	[103] l_.str.40
+<<dead>> 	0x0000002C	[103] l_.str.41
+<<dead>> 	0x0000000A	[103] l_.str.42
+<<dead>> 	0x00000005	[103] literal string: LILO
+<<dead>> 	0x00000009	[103] literal string: SYSLINUX
+<<dead>> 	0x00000009	[103] literal string: ISOLINUX
+<<dead>> 	0x00000009	[103] literal string: !Loading
+<<dead>> 	0x00000013	[103] literal string: Not a bootxx image
+<<dead>> 	0x00000006	[103] literal string: NTLDR
+<<dead>> 	0x00000008	[103] literal string: BOOTMGR
+<<dead>> 	0x0000000C	[103] literal string: CPUBOOT SYS
+<<dead>> 	0x0000000C	[103] literal string: KERNEL  SYS
+<<dead>> 	0x00000007	[103] literal string: OS2LDR
+<<dead>> 	0x00000008	[103] literal string: OS2BOOT
+<<dead>> 	0x0000000F	[103] literal string: Be Boot Loader
+<<dead>> 	0x0000000F	[103] literal string: yT Boot Loader
+<<dead>> 	0x00000013	[103] literal string: beossystemzbeos
+<<dead>> 	0x00000018	[103] literal string: Starting the BTX loader
+<<dead>> 	0x00000010	[103] literal string: Non-system disk
+<<dead>> 	0x0000001B	[103] l_.str.14
+<<dead>> 	0x00000011	[103] l_.str.17
+<<dead>> 	0x00000026	[104] _ExitDriver
+<<dead>> 	0x00000008	[104] _ProcessModuleUnloadList
+<<dead>> 	0x00000010	[104] _gEfiCallerIdGuid
+<<dead>> 	0x00000008	[104] _gEfiCallerBaseName
+<<dead>> 	0x00000010	[104] _gEfiAcpiTableGuid
+<<dead>> 	0x00000010	[104] _gEfiAcpi10TableGuid
+<<dead>> 	0x00000010	[104] _gEfiAcpi20TableGuid
+<<dead>> 	0x00000010	[104] _gEfiDxeServicesTableGuid
+<<dead>> 	0x00000010	[104] _gEfiEventReadyToBootGuid
+<<dead>> 	0x00000010	[104] _gEfiEventVirtualAddressChangeGuid
+<<dead>> 	0x00000010	[104] _gEfiEventExitBootServicesGuid
+<<dead>> 	0x00000010	[104] _gEfiFileInfoGuid
+<<dead>> 	0x00000010	[104] _gEfiFileSystemInfoGuid
+<<dead>> 	0x00000010	[104] _gEfiFileSystemVolumeLabelInfoIdGuid
+<<dead>> 	0x00000010	[104] _gEfiGlobalVariableGuid
+<<dead>> 	0x00000010	[104] _gEfiPartTypeLegacyMbrGuid
+<<dead>> 	0x00000010	[104] _gEfiPartTypeSystemPartGuid
+<<dead>> 	0x00000010	[104] _gEfiSmbiosTableGuid
+<<dead>> 	0x00000010	[104] _gEfiSasDevicePathGuid
+<<dead>> 	0x00000010	[104] _gEfiMdePkgTokenSpaceGuid
+<<dead>> 	0x00000010	[104] _gEfiVTUTF8Guid
+<<dead>> 	0x00000010	[104] _gEfiVT100Guid
+<<dead>> 	0x00000010	[104] _gEfiVT100PlusGuid
+<<dead>> 	0x00000010	[104] _gEfiPcAnsiGuid
+<<dead>> 	0x00000010	[104] _gEfiUartDevicePathGuid
+<<dead>> 	0x00000010	[104] _gEfiVirtualDiskGuid
+<<dead>> 	0x00000010	[104] _gEfiVirtualCdGuid
+<<dead>> 	0x00000010	[104] _gEfiPersistentVirtualDiskGuid
+<<dead>> 	0x00000010	[104] _gEfiPersistentVirtualCdGuid
+<<dead>> 	0x00000010	[104] _gEfiEventLegacyBootGuid
+<<dead>> 	0x00000010	[104] _gEfiLegacyBiosProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiComponentName2ProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiDevicePathToTextProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiSimpleFileSystemProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiSimpleTextInProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiSimpleTextInputExProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiSimpleTextOutProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiUnicodeCollationProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiUnicodeCollation2ProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiAcpiS3SaveProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiCpuArchProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiDebugPortProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiDiskIoProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiFirmwareVolume2ProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiHiiFontProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiLoadedImageProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiOEMBadgingProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiPciIoProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiSimpleNetworkProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiGraphicsOutputProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiLegacy8259ProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiScsiIoProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiScsiPassThruProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiUgaDrawProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiExtScsiPassThruProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiAbsolutePointerProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiAcpiTableProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiEdidActiveProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiEdidDiscoveredProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiHiiDatabaseProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiHiiImageProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiHiiProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiSimplePointerProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiSmbiosProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiSecurityArchProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiLoadFile2ProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiLoadFileProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiHiiPackageListProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiDriverBindingProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiComponentNameProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiDriverConfigurationProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiDriverConfiguration2ProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiDriverDiagnosticsProtocolGuid
+<<dead>> 	0x00000010	[104] _gEfiDriverDiagnostics2ProtocolGuid
+<<dead>> 	0x00000008	[104] literal string: gptsync
+<<dead>> 	0x00000001	[104] __gPcd_FixedAtBuild_PcdUgaConsumeSupport
+<<dead>> 	0x00000003	[104] __gPcd_FixedAtBuild_PcdVerifyNodeInList
+<<dead>> 	0x00000004	[104] __gPcd_FixedAtBuild_PcdMaximumLinkedListLength
+<<dead>> 	0x00000004	[104] __gPcd_FixedAtBuild_PcdDebugPropertyMask
+<<dead>> 	0x00000004	[104] __gPcd_FixedAtBuild_PcdMaximumDevicePathNodeCount
+<<dead>> 	0x00000001	[104] __gPcd_FixedAtBuild_PcdDriverDiagnosticsDisable
+<<dead>> 	0x00000001	[104] __gPcd_FixedAtBuild_PcdComponentNameDisable
+<<dead>> 	0x00000001	[104] __gPcd_FixedAtBuild_PcdDriverDiagnostics2Disable
+<<dead>> 	0x00000001	[104] __gPcd_FixedAtBuild_PcdComponentName2Disable
+<<dead>> 	0x00000001	[104] __gDriverUnloadImageCount
+<<dead>> 	0x00000008	[104] __gPcd_SkuId_Array

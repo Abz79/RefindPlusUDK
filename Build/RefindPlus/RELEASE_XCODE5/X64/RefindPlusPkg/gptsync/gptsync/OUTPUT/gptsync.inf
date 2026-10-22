@@ -1,0 +1,291 @@
+## @file
+#
+# gptsync.inf file to build gptsync using the EDK2/UDK201# development
+# kit.
+#
+# Copyright (c) 2012-2017 by Roderick W. Smith
+# Released under the terms of the GPLv3 (or, at your discretion, any later
+# version), a copy of which should come with this file.
+#
+##
+##
+# Modified for Refindplus
+# Copyright (c) 2022 Dayo Akanji (sf.net/u/dakanji/profile)
+#
+# Modifications distributed under the preceding terms.
+##
+
+# DO NOT EDIT
+# FILE auto-generated
+
+[Defines]
+  INF_VERSION                = 0x00010017
+  BASE_NAME                  = gptsync
+  FILE_GUID                  = 2767A966-477A-4EC0-8E95-EFFC2C29583D
+  MODULE_TYPE                = UEFI_APPLICATION
+  VERSION_STRING             = 1.0
+  UEFI_SPECIFICATION_VERSION = 0x00010000
+  ENTRY_POINT                = efi_main
+
+[Packages.X64]
+  MdePkg/MdePkg.dec
+  IntelFrameworkPkg/IntelFrameworkPkg.dec
+  IntelFrameworkModulePkg/IntelFrameworkModulePkg.dec
+
+[Binaries.X64]
+  PE32|gptsync.efi
+
+[PatchPcd.X64]
+
+[Protocols.X64]
+  ## TO_START
+  gEfiLegacyBiosProtocolGuid
+
+  ## SOMETIMES_PRODUCES # User chooses to produce it
+  ## CONSUMES
+  gEfiComponentName2ProtocolGuid
+
+  ## CONSUMES
+  gEfiDevicePathToTextProtocolGuid
+
+  ## CONSUMES
+  gEfiSimpleFileSystemProtocolGuid
+
+  ## CONSUMES
+  gEfiSimpleTextInProtocolGuid
+
+  ## CONSUMES
+  gEfiSimpleTextInputExProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  ## CONSUMES
+  gEfiSimpleTextOutProtocolGuid
+
+  ## CONSUMES
+  gEfiUnicodeCollationProtocolGuid
+
+  ## CONSUMES
+  gEfiUnicodeCollation2ProtocolGuid
+
+  ## CONSUMES
+  gEfiAcpiS3SaveProtocolGuid
+
+  ## CONSUMES
+  gEfiBlockIoProtocolGuid
+
+  ## CONSUMES
+  gEfiCpuArchProtocolGuid
+
+  ## UNDEFINED
+  ## CONSUMES
+  gEfiDebugPortProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  ## CONSUMES
+  gEfiDevicePathProtocolGuid
+
+  ## CONSUMES
+  gEfiDiskIoProtocolGuid
+
+  ## CONSUMES
+  gEfiFirmwareVolume2ProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  ## CONSUMES
+  gEfiHiiFontProtocolGuid
+
+  ## CONSUMES
+  gEfiLoadedImageProtocolGuid
+
+  ## CONSUMES
+  gEfiOEMBadgingProtocolGuid
+
+  ## CONSUMES
+  gEfiPciIoProtocolGuid
+
+  ## CONSUMES
+  gEfiSimpleNetworkProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  ## SOMETIMES_CONSUMES
+  gEfiGraphicsOutputProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  gEfiLegacy8259ProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  gEfiScsiIoProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  gEfiScsiPassThruProtocolGuid
+
+  ## SOMETIMES_CONSUMES # Consumes if gEfiGraphicsOutputProtocolGuid uninstalled
+  ## SOMETIMES_CONSUMES
+  gEfiUgaDrawProtocolGuid
+
+  ## SOMETIMES_CONSUMES
+  gEfiExtScsiPassThruProtocolGuid
+
+  gEfiAbsolutePointerProtocolGuid
+
+  gEfiAcpiTableProtocolGuid
+
+  gEfiEdidActiveProtocolGuid
+
+  gEfiEdidDiscoveredProtocolGuid
+
+  gEfiHiiDatabaseProtocolGuid
+
+  gEfiHiiImageProtocolGuid
+
+  gEfiHiiProtocolGuid
+
+  gEfiSimplePointerProtocolGuid
+
+  gEfiSmbiosProtocolGuid
+
+  gEfiSecurityArchProtocolGuid
+
+  gEfiLoadFile2ProtocolGuid
+
+  gEfiLoadFileProtocolGuid
+
+  gEfiHiiPackageListProtocolGuid
+
+  ## SOMETIMES_PRODUCES
+  gEfiDriverBindingProtocolGuid
+
+  ## SOMETIMES_PRODUCES # User chooses to produce it
+  gEfiComponentNameProtocolGuid
+
+  ## SOMETIMES_PRODUCES # User chooses to produce it
+  gEfiDriverConfigurationProtocolGuid
+
+  ## SOMETIMES_PRODUCES # User chooses to produce it
+  gEfiDriverConfiguration2ProtocolGuid
+
+  ## SOMETIMES_PRODUCES # User chooses to produce it
+  gEfiDriverDiagnosticsProtocolGuid
+
+  ## SOMETIMES_PRODUCES # User chooses to produce it
+  gEfiDriverDiagnostics2ProtocolGuid
+
+
+[Ppis.X64]
+
+[Guids.X64]
+  gEfiAcpiTableGuid
+
+  gEfiAcpi10TableGuid
+
+  gEfiAcpi20TableGuid
+
+  gEfiDxeServicesTableGuid
+
+  ## SOMETIMES_CONSUMES  ## Event
+  gEfiEventReadyToBootGuid
+
+  gEfiEventVirtualAddressChangeGuid
+
+  gEfiEventExitBootServicesGuid
+
+  ## CONSUMES           ## GUID
+  gEfiFileInfoGuid
+
+  ## CONSUMES           ## GUID
+  gEfiFileSystemInfoGuid
+
+  gEfiFileSystemVolumeLabelInfoIdGuid
+
+  ## SOMETIMES_CONSUMES  ## Variable
+  gEfiGlobalVariableGuid
+
+  gEfiPartTypeLegacyMbrGuid
+
+  gEfiPartTypeSystemPartGuid
+
+  gEfiSmbiosTableGuid
+
+  ## SOMETIMES_CONSUMES  ## GUID
+  gEfiSasDevicePathGuid
+
+  ## SOMETIMES_CONSUMES  ## GUID
+  gEfiVTUTF8Guid
+
+  ## SOMETIMES_CONSUMES  ## GUID
+  gEfiVT100Guid
+
+  ## SOMETIMES_CONSUMES  ## GUID
+  gEfiVT100PlusGuid
+
+  ## SOMETIMES_CONSUMES  ## GUID
+  gEfiPcAnsiGuid
+
+  ## SOMETIMES_CONSUMES  ## GUID
+  gEfiUartDevicePathGuid
+
+  ## SOMETIMES_CONSUMES  ## GUID
+  gEfiVirtualDiskGuid
+
+  ## SOMETIMES_CONSUMES  ## GUID
+  gEfiVirtualCdGuid
+
+  ## SOMETIMES_CONSUMES  ## GUID
+  gEfiPersistentVirtualDiskGuid
+
+  ## SOMETIMES_CONSUMES  ## GUID
+  gEfiPersistentVirtualCdGuid
+
+  ## SOMETIMES_CONSUMES  ## Event
+  gEfiEventLegacyBootGuid
+
+
+[PcdEx.X64]
+
+[LibraryClasses.X64]
+## @LIB_INSTANCES
+#  MdePkg/Library/BasePcdLibNull/BasePcdLibNull.inf
+#  MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull.inf
+#  MdePkg/Library/BaseMemoryLib/BaseMemoryLib.inf
+#  MdePkg/Library/BaseLib/BaseLib.inf
+#  MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib.inf
+#  MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib.inf
+#  MdePkg/Library/BasePrintLib/BasePrintLib.inf
+#  MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib.inf
+#  MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib.inf
+#  MdePkg/Library/UefiLib/UefiLib.inf
+#  MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint.inf
+
+[Depex.X64]
+
+
+
+
+#
+# The following information is for reference only and not required by the build tools.
+#
+# VALID_ARCHITECTURES = IA32 X64 IPF EBC
+#
+
+[BuildOptions.X64]
+## @AsBuilt
+##   GCC:RELEASE_XCODE5_X64_SYMRENAME_FLAGS = Symbol renaming not needed for
+##   GCC:RELEASE_XCODE5_X64_DTC_FLAGS = -H epapr
+##   GCC:RELEASE_XCODE5_X64_ASLDLINK_FLAGS = -e _ReferenceAcpiTable -preload -segalign 0x20  -pie -seg1addr 0x240 -read_only_relocs suppress -map $(DEST_DIR_DEBUG)/$(BASE_NAME).map
+##   GCC:RELEASE_XCODE5_X64_VFR_FLAGS = -l -n
+##   GCC:RELEASE_XCODE5_X64_PP_FLAGS = -E -x assembler-with-cpp -include $(DEST_DIR_DEBUG)/AutoGen.h
+##   GCC:RELEASE_XCODE5_X64_GENFW_FLAGS = 
+##   GCC:RELEASE_XCODE5_X64_OPTROM_FLAGS = -e
+##   GCC:RELEASE_XCODE5_X64_SLINK_FLAGS = crs
+##   GCC:RELEASE_XCODE5_X64_ASM_FLAGS = -arch x86_64
+##   GCC:RELEASE_XCODE5_X64_ASL_FLAGS = 
+##   GCC:RELEASE_XCODE5_X64_MTOC_FLAGS = -align 0x20
+##   GCC:RELEASE_XCODE5_X64_CC_FLAGS = -target x86_64-pc-win32-macho -c    -Os       -Wall -include AutoGen.h -funsigned-char -fno-ms-extensions -fno-stack-protector -fno-builtin -fshort-wchar -mno-implicit-float -mms-bitfields -Wno-unused-parameter -Wno-missing-braces -Wno-missing-field-initializers -Wno-tautological-compare -Wno-sign-compare -Wno-varargs -Wno-unused-const-variable -ftrap-function=undefined_behavior_has_been_optimized_away_by_clang -D NO_MSABI_VA_FUNCS $(PLATFORM_FLAGS) -Os -DEFIX64 -D__MAKEWITH_TIANO -Os -DEFIX64 -D__MAKEWITH_TIANO -DREFIT_DEBUG=0 -DMDEPKG_NDEBUG
+##   GCC:RELEASE_XCODE5_X64_NASMB_FLAGS = -f bin
+##   GCC:RELEASE_XCODE5_X64_VFRPP_FLAGS = -x c -E -P -DVFRCOMPILE -include $(DEST_DIR_DEBUG)/$(MODULE_NAME)StrDefs.h
+##   GCC:RELEASE_XCODE5_X64_ASLCC_FLAGS = -x c -save-temps -g -O0 -fshort-wchar -fno-strict-aliasing -Wall -Werror -Wno-missing-braces -c -include AutoGen.h
+##   GCC:RELEASE_XCODE5_X64_DLINK_FLAGS = -arch x86_64 -u _$(IMAGE_ENTRY_POINT) -e _$(IMAGE_ENTRY_POINT) -preload -segalign 0x20  -pie -all_load -dead_strip -seg1addr 0x240 -map $(DEST_DIR_DEBUG)/$(BASE_NAME).map -seg1addr 0x300
+##   GCC:RELEASE_XCODE5_X64_ASLPP_FLAGS = -x c -E -include AutoGen.h
+##   GCC:RELEASE_XCODE5_X64_OBJCOPY_FLAGS = objcopy not needed for
+##   GCC:RELEASE_XCODE5_X64_ASMLINK_FLAGS = /nologo /tiny
+##   GCC:RELEASE_XCODE5_X64_NASM_FLAGS = -f macho64

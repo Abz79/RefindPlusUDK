@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+BASETOOLS_SHA_OLD='7be789362d329e580d017cd8641403237d1d8d65:23.6.0'

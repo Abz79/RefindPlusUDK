@@ -1,0 +1,14 @@
+/Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib
+/Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+/Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib
+/Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib
+/Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib
+/Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
+/Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib
+/Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib
+/Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib
+/Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib
+/Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib
+/Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/DxeServicesLib/DxeServicesLib/OUTPUT/DxeServicesLib.lib
+/Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/MdePkg/Library/DxeServicesTableLib/DxeServicesTableLib/OUTPUT/DxeServicesTableLib.lib
+/Users/abz/Documents/RefindPlus/edk2/Build/RefindPlus/RELEASE_XCODE5/X64/RefindPlusPkg/filesystems/btrfs/OUTPUT/btrfs.lib
